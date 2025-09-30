@@ -1,0 +1,765 @@
+{
+  "timestamp": "2025-07-31T13:41:39.118Z",
+  "analysisTime": "0.05s",
+  "summary": {
+    "totalImages": 209,
+    "totalSizeMB": "202.51",
+    "averageSizeMB": "0.97"
+  },
+  "imageTypes": {},
+  "largeFiles": [],
+  "directories": [
+    {
+      "name": "arquitectura",
+      "path": "arquitectura",
+      "totalFiles": 33,
+      "totalSize": 10.11,
+      "imageTypes": {},
+      "largeFiles": [],
+      "directories": [
+        {
+          "name": "Downtown Boutique",
+          "path": "arquitectura\\Downtown Boutique",
+          "totalFiles": 3,
+          "totalSize": 0.9900000000000001,
+          "imageTypes": {
+            ".webp": {
+              "count": 3,
+              "totalSize": 0.9900000000000001
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Hortaleza",
+          "path": "arquitectura\\Hortaleza",
+          "totalFiles": 4,
+          "totalSize": 2.76,
+          "imageTypes": {
+            ".webp": {
+              "count": 4,
+              "totalSize": 2.76
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Madrid Suite",
+          "path": "arquitectura\\Madrid Suite",
+          "totalFiles": 7,
+          "totalSize": 1.3199999999999998,
+          "imageTypes": {
+            ".webp": {
+              "count": 7,
+              "totalSize": 1.3199999999999998
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Real State",
+          "path": "arquitectura\\Real State",
+          "totalFiles": 5,
+          "totalSize": 0.6100000000000001,
+          "imageTypes": {
+            ".webp": {
+              "count": 5,
+              "totalSize": 0.6100000000000001
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "San Cayetano",
+          "path": "arquitectura\\San Cayetano",
+          "totalFiles": 5,
+          "totalSize": 2.29,
+          "imageTypes": {
+            ".webp": {
+              "count": 5,
+              "totalSize": 2.29
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Tirso de molina",
+          "path": "arquitectura\\Tirso de molina",
+          "totalFiles": 4,
+          "totalSize": 1.1,
+          "imageTypes": {
+            ".webp": {
+              "count": 4,
+              "totalSize": 1.1
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Zafra",
+          "path": "arquitectura\\Zafra",
+          "totalFiles": 5,
+          "totalSize": 1.04,
+          "imageTypes": {
+            ".webp": {
+              "count": 5,
+              "totalSize": 1.04
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "path": "food",
+      "totalFiles": 94,
+      "totalSize": 74.93,
+      "imageTypes": {},
+      "largeFiles": [],
+      "directories": [
+        {
+          "name": "1975",
+          "path": "food\\1975",
+          "totalFiles": 4,
+          "totalSize": 2.17,
+          "imageTypes": {
+            ".webp": {
+              "count": 4,
+              "totalSize": 2.17
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Aperol Spritz",
+          "path": "food\\Aperol Spritz",
+          "totalFiles": 2,
+          "totalSize": 4.33,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 4.33
+            }
+          },
+          "largeFiles": [
+            {
+              "name": "Drafter2.0-33.webp",
+              "path": "food\\Aperol Spritz\\Drafter2.0-33.webp",
+              "size": 2.28,
+              "sizeMB": "2.28"
+            },
+            {
+              "name": "portada.webp",
+              "path": "food\\Aperol Spritz\\portada.webp",
+              "size": 2.05,
+              "sizeMB": "2.05"
+            }
+          ],
+          "directories": []
+        },
+        {
+          "name": "Asados al carbon",
+          "path": "food\\Asados al carbon",
+          "totalFiles": 6,
+          "totalSize": 4.93,
+          "imageTypes": {
+            ".webp": {
+              "count": 6,
+              "totalSize": 4.93
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Cibó",
+          "path": "food\\Cibó",
+          "totalFiles": 2,
+          "totalSize": 0.84,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 0.84
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Commo",
+          "path": "food\\Commo",
+          "totalFiles": 2,
+          "totalSize": 1.52,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 1.52
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Crepas Con Cosas",
+          "path": "food\\Crepas Con Cosas",
+          "totalFiles": 4,
+          "totalSize": 2.59,
+          "imageTypes": {
+            ".webp": {
+              "count": 4,
+              "totalSize": 2.59
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "El Gran Langostino Tienda Gourmet",
+          "path": "food\\El Gran Langostino Tienda Gourmet",
+          "totalFiles": 3,
+          "totalSize": 2.61,
+          "imageTypes": {
+            ".webp": {
+              "count": 3,
+              "totalSize": 2.61
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Enbabia 2",
+          "path": "food\\Enbabia 2",
+          "totalFiles": 5,
+          "totalSize": 3.96,
+          "imageTypes": {
+            ".webp": {
+              "count": 5,
+              "totalSize": 3.96
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Enbabia Infused Bar",
+          "path": "food\\Enbabia Infused Bar",
+          "totalFiles": 14,
+          "totalSize": 12.150000000000002,
+          "imageTypes": {
+            ".webp": {
+              "count": 14,
+              "totalSize": 12.150000000000002
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Enbabia Library",
+          "path": "food\\Enbabia Library",
+          "totalFiles": 7,
+          "totalSize": 1.08,
+          "imageTypes": {
+            ".webp": {
+              "count": 7,
+              "totalSize": 1.08
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Entre Comillas",
+          "path": "food\\Entre Comillas",
+          "totalFiles": 2,
+          "totalSize": 0.64,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 0.64
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Escom 1",
+          "path": "food\\Escom 1",
+          "totalFiles": 9,
+          "totalSize": 8.729999999999999,
+          "imageTypes": {
+            ".webp": {
+              "count": 9,
+              "totalSize": 8.729999999999999
+            }
+          },
+          "largeFiles": [
+            {
+              "name": "portada.webp",
+              "path": "food\\Escom 1\\portada.webp",
+              "size": 2.84,
+              "sizeMB": "2.84"
+            }
+          ],
+          "directories": []
+        },
+        {
+          "name": "espit",
+          "path": "food\\espit",
+          "totalFiles": 2,
+          "totalSize": 1.02,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 1.02
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "FitCharron",
+          "path": "food\\FitCharron",
+          "totalFiles": 2,
+          "totalSize": 2.0300000000000002,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 2.0300000000000002
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "La fabrica Gourmet",
+          "path": "food\\La fabrica Gourmet",
+          "totalFiles": 2,
+          "totalSize": 2.0700000000000003,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 2.0700000000000003
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Library",
+          "path": "food\\Library",
+          "totalFiles": 6,
+          "totalSize": 1.02,
+          "imageTypes": {
+            ".webp": {
+              "count": 6,
+              "totalSize": 1.02
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "The Food Place",
+          "path": "food\\The Food Place",
+          "totalFiles": 3,
+          "totalSize": 3.5199999999999996,
+          "imageTypes": {
+            ".webp": {
+              "count": 3,
+              "totalSize": 3.5199999999999996
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Tijuana Taquería",
+          "path": "food\\Tijuana Taquería",
+          "totalFiles": 3,
+          "totalSize": 3.1799999999999997,
+          "imageTypes": {
+            ".webp": {
+              "count": 3,
+              "totalSize": 3.1799999999999997
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Tiki Tako",
+          "path": "food\\Tiki Tako",
+          "totalFiles": 7,
+          "totalSize": 3.95,
+          "imageTypes": {
+            ".webp": {
+              "count": 7,
+              "totalSize": 3.95
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "TIKITAKO BEBIDAS",
+          "path": "food\\TIKITAKO BEBIDAS",
+          "totalFiles": 2,
+          "totalSize": 1.6500000000000001,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 1.6500000000000001
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Various Artist",
+          "path": "food\\Various Artist",
+          "totalFiles": 1,
+          "totalSize": 2.17,
+          "imageTypes": {
+            ".webp": {
+              "count": 1,
+              "totalSize": 2.17
+            }
+          },
+          "largeFiles": [
+            {
+              "name": "portada.webp",
+              "path": "food\\Various Artist\\portada.webp",
+              "size": 2.17,
+              "sizeMB": "2.17"
+            }
+          ],
+          "directories": []
+        },
+        {
+          "name": "Viu Burger Bar",
+          "path": "food\\Viu Burger Bar",
+          "totalFiles": 6,
+          "totalSize": 8.77,
+          "imageTypes": {
+            ".webp": {
+              "count": 6,
+              "totalSize": 8.77
+            }
+          },
+          "largeFiles": [
+            {
+              "name": "7 2.webp",
+              "path": "food\\Viu Burger Bar\\7 2.webp",
+              "size": 2.78,
+              "sizeMB": "2.78"
+            },
+            {
+              "name": "viu 4.webp",
+              "path": "food\\Viu Burger Bar\\viu 4.webp",
+              "size": 2.17,
+              "sizeMB": "2.17"
+            }
+          ],
+          "directories": []
+        }
+      ]
+    },
+    {
+      "name": "moda",
+      "path": "moda",
+      "totalFiles": 70,
+      "totalSize": 107.83,
+      "imageTypes": {},
+      "largeFiles": [],
+      "directories": [
+        {
+          "name": "A FUTURO",
+          "path": "moda\\A FUTURO",
+          "totalFiles": 4,
+          "totalSize": 1.38,
+          "imageTypes": {
+            ".webp": {
+              "count": 4,
+              "totalSize": 1.38
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Blond it",
+          "path": "moda\\Blond it",
+          "totalFiles": 13,
+          "totalSize": 12.809999999999999,
+          "imageTypes": {
+            ".webp": {
+              "count": 13,
+              "totalSize": 12.809999999999999
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Buenaventura",
+          "path": "moda\\Buenaventura",
+          "totalFiles": 5,
+          "totalSize": 2.8400000000000003,
+          "imageTypes": {
+            ".webp": {
+              "count": 5,
+              "totalSize": 2.8400000000000003
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Campaña Pride",
+          "path": "moda\\Campaña Pride",
+          "totalFiles": 2,
+          "totalSize": 0.73,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 0.73
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Daniela tolosa",
+          "path": "moda\\Daniela tolosa",
+          "totalFiles": 3,
+          "totalSize": 4.96,
+          "imageTypes": {
+            ".webp": {
+              "count": 3,
+              "totalSize": 4.96
+            }
+          },
+          "largeFiles": [
+            {
+              "name": "DSC06272.webp",
+              "path": "moda\\Daniela tolosa\\DSC06272.webp",
+              "size": 2.42,
+              "sizeMB": "2.42"
+            }
+          ],
+          "directories": []
+        },
+        {
+          "name": "Leo",
+          "path": "moda\\Leo",
+          "totalFiles": 4,
+          "totalSize": 8.059999999999999,
+          "imageTypes": {
+            ".webp": {
+              "count": 4,
+              "totalSize": 8.059999999999999
+            }
+          },
+          "largeFiles": [
+            {
+              "name": "LeoHanna-28.webp",
+              "path": "moda\\Leo\\LeoHanna-28.webp",
+              "size": 4.76,
+              "sizeMB": "4.76"
+            }
+          ],
+          "directories": []
+        },
+        {
+          "name": "Make up world",
+          "path": "moda\\Make up world",
+          "totalFiles": 4,
+          "totalSize": 0.76,
+          "imageTypes": {
+            ".webp": {
+              "count": 4,
+              "totalSize": 0.76
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "MRS TISSA",
+          "path": "moda\\MRS TISSA",
+          "totalFiles": 4,
+          "totalSize": 57.410000000000004,
+          "imageTypes": {
+            ".jpg": {
+              "count": 4,
+              "totalSize": 57.410000000000004
+            }
+          },
+          "largeFiles": [
+            {
+              "name": "portada.jpg",
+              "path": "moda\\MRS TISSA\\portada.jpg",
+              "size": 15.66,
+              "sizeMB": "15.66"
+            },
+            {
+              "name": "TissaViñeta-12.jpg",
+              "path": "moda\\MRS TISSA\\TissaViñeta-12.jpg",
+              "size": 13.97,
+              "sizeMB": "13.97"
+            },
+            {
+              "name": "TissaViñeta-9.jpg",
+              "path": "moda\\MRS TISSA\\TissaViñeta-9.jpg",
+              "size": 14.74,
+              "sizeMB": "14.74"
+            },
+            {
+              "name": "Tissa_Detalle-5.jpg",
+              "path": "moda\\MRS TISSA\\Tissa_Detalle-5.jpg",
+              "size": 13.04,
+              "sizeMB": "13.04"
+            }
+          ],
+          "directories": []
+        },
+        {
+          "name": "Portrait",
+          "path": "moda\\Portrait",
+          "totalFiles": 3,
+          "totalSize": 1.9700000000000002,
+          "imageTypes": {
+            ".webp": {
+              "count": 3,
+              "totalSize": 1.9700000000000002
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Robert Grey",
+          "path": "moda\\Robert Grey",
+          "totalFiles": 5,
+          "totalSize": 0.21000000000000002,
+          "imageTypes": {
+            ".webp": {
+              "count": 5,
+              "totalSize": 0.21000000000000002
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Sergei",
+          "path": "moda\\Sergei",
+          "totalFiles": 5,
+          "totalSize": 3.3,
+          "imageTypes": {
+            ".webp": {
+              "count": 5,
+              "totalSize": 3.3
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Sergio Odontología",
+          "path": "moda\\Sergio Odontología",
+          "totalFiles": 4,
+          "totalSize": 2.6399999999999997,
+          "imageTypes": {
+            ".webp": {
+              "count": 4,
+              "totalSize": 2.6399999999999997
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "TISSA BAGS",
+          "path": "moda\\TISSA BAGS",
+          "totalFiles": 8,
+          "totalSize": 6.87,
+          "imageTypes": {
+            ".webp": {
+              "count": 8,
+              "totalSize": 6.87
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "Victor Fisioterapia",
+          "path": "moda\\Victor Fisioterapia",
+          "totalFiles": 2,
+          "totalSize": 0.56,
+          "imageTypes": {
+            ".webp": {
+              "count": 2,
+              "totalSize": 0.56
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        },
+        {
+          "name": "XU",
+          "path": "moda\\XU",
+          "totalFiles": 4,
+          "totalSize": 3.33,
+          "imageTypes": {
+            ".webp": {
+              "count": 4,
+              "totalSize": 3.33
+            }
+          },
+          "largeFiles": [],
+          "directories": []
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "path": "social",
+      "totalFiles": 12,
+      "totalSize": 9.64,
+      "imageTypes": {
+        ".webp": {
+          "count": 12,
+          "totalSize": 9.64
+        }
+      },
+      "largeFiles": [
+        {
+          "name": "Enbabia_abril_2025-14.webp",
+          "path": "social\\Enbabia_abril_2025-14.webp",
+          "size": 2.5,
+          "sizeMB": "2.50"
+        }
+      ],
+      "directories": []
+    }
+  ],
+  "recommendations": [
+    {
+      "type": "warning",
+      "message": "El tamaño total de imágenes es muy grande. Considera optimizar todas las imágenes"
+    }
+  ]
+}

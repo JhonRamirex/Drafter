@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Drafter Studio - Producción Audiovisual</title>
+    <meta name="description" content="Estudio de fotografía profesional en Madrid. modas artísticos, fotografía gastronómica y arquitectónica con equipos de última generación." />
+    <meta name="author" content="Drafter Studio" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/SVG/SVG/Drafter__9.png" />
+    
+
+    <link rel="stylesheet" href="https://use.typekit.net/nyc6jda.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:title" content="Drafter Studio - Producción Audiovisual" />
+    <meta property="og:description" content="Fusionamos la fotografía profesional con una visión creativa para crear experiencias visuales impactantes" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://drafter.es" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@drafterstudio" />
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W9MKFZCB');</script>
+    <!-- End Google Tag Manager -->
+    
+    <!-- Consent Mode v2 - Configuración inicial -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      
+      // Configuración inicial de consentimiento (por defecto denegado)
+      gtag('consent', 'default', {
+        'analytics_storage': 'denied',
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'functionality_storage': 'denied',
+        'personalization_storage': 'denied',
+        'security_storage': 'granted'
+      });
+      
+      // Cargar Google Analytics con Consent Mode
+      gtag('js', new Date());
+      gtag('config', 'G-X65CMQRY04', {
+        'anonymize_ip': true,
+        'cookie_flags': 'SameSite=None;Secure',
+        'allow_google_signals': false,
+        'allow_ad_personalization_signals': false
+      });
+    </script>
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X65CMQRY04"></script>
+    
+    <!-- Preload fonts for better performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Preload hero logos for faster above-the-fold rendering -->
+    <link rel="preload" as="image" href="/SVG/SVG/Drafter__5.svg" />
+    <link rel="preload" as="image" href="/SVG/SVG/logomoda.webp" />
+    <link rel="preload" as="image" href="/SVG/SVG/logoespacial.webp" />
+    <link rel="preload" as="image" href="/SVG/SVG/logogastro.webp" />
+    <link rel="preload" as="image" href="/SVG/SVG/logosocial.webp" />
+
+    <!-- Force canonical apex domain (non-www) on client as fallback -->
+    <script>
+      (function() {
+        try {
+          var h = window.location.hostname;
+          if (h && h.slice(0,4).toLowerCase() === 'www.') {
+            var target = window.location.protocol + '//' + h.slice(4) + window.location.pathname + window.location.search + window.location.hash;
+            window.location.replace(target);
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W9MKFZCB"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

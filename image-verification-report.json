@@ -1,0 +1,1265 @@
+{
+  "timestamp": "2025-07-31T13:48:52.890Z",
+  "summary": {
+    "totalImages": 209,
+    "existingImages": 0,
+    "missingImages": 209,
+    "successRate": "0.0"
+  },
+  "missingImages": [
+    {
+      "album": "Downtown Boutique",
+      "categoria": "arquitectura",
+      "image": "Cisneros 2-25.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Downtown Boutique\\Cisneros 2-25.webp"
+    },
+    {
+      "album": "Downtown Boutique",
+      "categoria": "arquitectura",
+      "image": "Cisneros 2-29.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Downtown Boutique\\Cisneros 2-29.webp"
+    },
+    {
+      "album": "Downtown Boutique",
+      "categoria": "arquitectura",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Downtown Boutique\\portada.webp"
+    },
+    {
+      "album": "Hortaleza",
+      "categoria": "arquitectura",
+      "image": "HORTALEZA-10.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Hortaleza\\HORTALEZA-10.webp"
+    },
+    {
+      "album": "Hortaleza",
+      "categoria": "arquitectura",
+      "image": "HORTALEZA-12.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Hortaleza\\HORTALEZA-12.webp"
+    },
+    {
+      "album": "Hortaleza",
+      "categoria": "arquitectura",
+      "image": "HORTALEZA-6.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Hortaleza\\HORTALEZA-6.webp"
+    },
+    {
+      "album": "Hortaleza",
+      "categoria": "arquitectura",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Hortaleza\\portada.webp"
+    },
+    {
+      "album": "Madrid Suite",
+      "categoria": "arquitectura",
+      "image": "DSC05941.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Madrid Suite\\DSC05941.webp"
+    },
+    {
+      "album": "Madrid Suite",
+      "categoria": "arquitectura",
+      "image": "DSC05946-HDR.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Madrid Suite\\DSC05946-HDR.webp"
+    },
+    {
+      "album": "Madrid Suite",
+      "categoria": "arquitectura",
+      "image": "DSC06019.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Madrid Suite\\DSC06019.webp"
+    },
+    {
+      "album": "Madrid Suite",
+      "categoria": "arquitectura",
+      "image": "DSC06055-Editar.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Madrid Suite\\DSC06055-Editar.webp"
+    },
+    {
+      "album": "Madrid Suite",
+      "categoria": "arquitectura",
+      "image": "DSC06059.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Madrid Suite\\DSC06059.webp"
+    },
+    {
+      "album": "Madrid Suite",
+      "categoria": "arquitectura",
+      "image": "DSC06069.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Madrid Suite\\DSC06069.webp"
+    },
+    {
+      "album": "Madrid Suite",
+      "categoria": "arquitectura",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Madrid Suite\\portada.webp"
+    },
+    {
+      "album": "Real State",
+      "categoria": "arquitectura",
+      "image": "Joaquin-11.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Real State\\Joaquin-11.webp"
+    },
+    {
+      "album": "Real State",
+      "categoria": "arquitectura",
+      "image": "Joaquin-25.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Real State\\Joaquin-25.webp"
+    },
+    {
+      "album": "Real State",
+      "categoria": "arquitectura",
+      "image": "Joaquin-28.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Real State\\Joaquin-28.webp"
+    },
+    {
+      "album": "Real State",
+      "categoria": "arquitectura",
+      "image": "Joaquin-33.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Real State\\Joaquin-33.webp"
+    },
+    {
+      "album": "Real State",
+      "categoria": "arquitectura",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Real State\\portada.webp"
+    },
+    {
+      "album": "San Cayetano",
+      "categoria": "arquitectura",
+      "image": "San_cayetano-10.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\San Cayetano\\San_cayetano-10.webp"
+    },
+    {
+      "album": "San Cayetano",
+      "categoria": "arquitectura",
+      "image": "San_cayetano-30.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\San Cayetano\\San_cayetano-30.webp"
+    },
+    {
+      "album": "San Cayetano",
+      "categoria": "arquitectura",
+      "image": "San_cayetano-33.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\San Cayetano\\San_cayetano-33.webp"
+    },
+    {
+      "album": "San Cayetano",
+      "categoria": "arquitectura",
+      "image": "San_cayetano-52.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\San Cayetano\\San_cayetano-52.webp"
+    },
+    {
+      "album": "San Cayetano",
+      "categoria": "arquitectura",
+      "image": "San_cayetano-53.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\San Cayetano\\San_cayetano-53.webp"
+    },
+    {
+      "album": "Tirso de molina",
+      "categoria": "arquitectura",
+      "image": "Conde B-18.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Tirso de molina\\Conde B-18.webp"
+    },
+    {
+      "album": "Tirso de molina",
+      "categoria": "arquitectura",
+      "image": "Conde B-34.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Tirso de molina\\Conde B-34.webp"
+    },
+    {
+      "album": "Tirso de molina",
+      "categoria": "arquitectura",
+      "image": "Conde B-40.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Tirso de molina\\Conde B-40.webp"
+    },
+    {
+      "album": "Tirso de molina",
+      "categoria": "arquitectura",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Tirso de molina\\portada.webp"
+    },
+    {
+      "album": "Zafra",
+      "categoria": "arquitectura",
+      "image": "DSC05456-Editar.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Zafra\\DSC05456-Editar.webp"
+    },
+    {
+      "album": "Zafra",
+      "categoria": "arquitectura",
+      "image": "DSC05472-HDR.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Zafra\\DSC05472-HDR.webp"
+    },
+    {
+      "album": "Zafra",
+      "categoria": "arquitectura",
+      "image": "DSC05494-HDR.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Zafra\\DSC05494-HDR.webp"
+    },
+    {
+      "album": "Zafra",
+      "categoria": "arquitectura",
+      "image": "DSC05601.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Zafra\\DSC05601.webp"
+    },
+    {
+      "album": "Zafra",
+      "categoria": "arquitectura",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\arquitectura\\Zafra\\portada.webp"
+    },
+    {
+      "album": "1975",
+      "categoria": "food",
+      "image": "causa 2.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\1975\\causa 2.webp"
+    },
+    {
+      "album": "1975",
+      "categoria": "food",
+      "image": "IMG_8417.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\1975\\IMG_8417.webp"
+    },
+    {
+      "album": "1975",
+      "categoria": "food",
+      "image": "IMG_8823.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\1975\\IMG_8823.webp"
+    },
+    {
+      "album": "1975",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\1975\\portada.webp"
+    },
+    {
+      "album": "Aperol Spritz",
+      "categoria": "food",
+      "image": "Drafter2.0-33.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Aperol Spritz\\Drafter2.0-33.webp"
+    },
+    {
+      "album": "Aperol Spritz",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Aperol Spritz\\portada.webp"
+    },
+    {
+      "album": "Asados al carbon",
+      "categoria": "food",
+      "image": "DSC00877.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Asados al carbon\\DSC00877.webp"
+    },
+    {
+      "album": "Asados al carbon",
+      "categoria": "food",
+      "image": "DSC00935.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Asados al carbon\\DSC00935.webp"
+    },
+    {
+      "album": "Asados al carbon",
+      "categoria": "food",
+      "image": "DSC00984.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Asados al carbon\\DSC00984.webp"
+    },
+    {
+      "album": "Asados al carbon",
+      "categoria": "food",
+      "image": "DSC01403.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Asados al carbon\\DSC01403.webp"
+    },
+    {
+      "album": "Asados al carbon",
+      "categoria": "food",
+      "image": "DSC03272.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Asados al carbon\\DSC03272.webp"
+    },
+    {
+      "album": "Asados al carbon",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Asados al carbon\\portada.webp"
+    },
+    {
+      "album": "Cibó",
+      "categoria": "food",
+      "image": "DSC00079.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Cibó\\DSC00079.webp"
+    },
+    {
+      "album": "Cibó",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Cibó\\portada.webp"
+    },
+    {
+      "album": "Commo",
+      "categoria": "food",
+      "image": "Espit0525-36.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Commo\\Espit0525-36.webp"
+    },
+    {
+      "album": "Commo",
+      "categoria": "food",
+      "image": "Social.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Commo\\Social.webp"
+    },
+    {
+      "album": "Crepas Con Cosas",
+      "categoria": "food",
+      "image": "IMG_5948.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Crepas Con Cosas\\IMG_5948.webp"
+    },
+    {
+      "album": "Crepas Con Cosas",
+      "categoria": "food",
+      "image": "IMG_6000.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Crepas Con Cosas\\IMG_6000.webp"
+    },
+    {
+      "album": "Crepas Con Cosas",
+      "categoria": "food",
+      "image": "IMG_6018.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Crepas Con Cosas\\IMG_6018.webp"
+    },
+    {
+      "album": "Crepas Con Cosas",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Crepas Con Cosas\\portada.webp"
+    },
+    {
+      "album": "El Gran Langostino Tienda Gourmet",
+      "categoria": "food",
+      "image": "DSC09486 copia.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\El Gran Langostino Tienda Gourmet\\DSC09486 copia.webp"
+    },
+    {
+      "album": "El Gran Langostino Tienda Gourmet",
+      "categoria": "food",
+      "image": "DSC09511.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\El Gran Langostino Tienda Gourmet\\DSC09511.webp"
+    },
+    {
+      "album": "El Gran Langostino Tienda Gourmet",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\El Gran Langostino Tienda Gourmet\\portada.webp"
+    },
+    {
+      "album": "Enbabia 2",
+      "categoria": "food",
+      "image": "spit-086.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia 2\\spit-086.webp"
+    },
+    {
+      "album": "Enbabia 2",
+      "categoria": "food",
+      "image": "spit-088.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia 2\\spit-088.webp"
+    },
+    {
+      "album": "Enbabia 2",
+      "categoria": "food",
+      "image": "spit-094.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia 2\\spit-094.webp"
+    },
+    {
+      "album": "Enbabia 2",
+      "categoria": "food",
+      "image": "spit-095.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia 2\\spit-095.webp"
+    },
+    {
+      "album": "Enbabia 2",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia 2\\portada.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Drafter2.0-12.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Drafter2.0-12.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Drafter2.0-14.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Drafter2.0-14.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Drafter2.0-15.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Drafter2.0-15.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Drafter2.0-19.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Drafter2.0-19.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Drafter2.0-20.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Drafter2.0-20.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Drafter2.0-31.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Drafter2.0-31.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Enbabia-028.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Enbabia-028.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Enbabia-033.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Enbabia-033.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Enbabia-071.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Enbabia-071.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "Enbabia-083.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\Enbabia-083.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "spit-071.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\spit-071.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "spit-080.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\spit-080.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "spit-087.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\spit-087.webp"
+    },
+    {
+      "album": "Enbabia Infused Bar",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Infused Bar\\portada.webp"
+    },
+    {
+      "album": "Enbabia Library",
+      "categoria": "food",
+      "image": "DRAFTER-109.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Library\\DRAFTER-109.webp"
+    },
+    {
+      "album": "Enbabia Library",
+      "categoria": "food",
+      "image": "DRAFTER-17.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Library\\DRAFTER-17.webp"
+    },
+    {
+      "album": "Enbabia Library",
+      "categoria": "food",
+      "image": "DRAFTER-28.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Library\\DRAFTER-28.webp"
+    },
+    {
+      "album": "Enbabia Library",
+      "categoria": "food",
+      "image": "DRAFTER-31.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Library\\DRAFTER-31.webp"
+    },
+    {
+      "album": "Enbabia Library",
+      "categoria": "food",
+      "image": "DRAFTER-55.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Library\\DRAFTER-55.webp"
+    },
+    {
+      "album": "Enbabia Library",
+      "categoria": "food",
+      "image": "DRAFTER-57.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Library\\DRAFTER-57.webp"
+    },
+    {
+      "album": "Enbabia Library",
+      "categoria": "food",
+      "image": "DRAFTER-89.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Enbabia Library\\DRAFTER-89.webp"
+    },
+    {
+      "album": "Entre Comillas",
+      "categoria": "food",
+      "image": "IMG_5775.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Entre Comillas\\IMG_5775.webp"
+    },
+    {
+      "album": "Entre Comillas",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Entre Comillas\\portada.webp"
+    },
+    {
+      "album": "Escom 1",
+      "categoria": "food",
+      "image": "Drafter-05.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Escom 1\\Drafter-05.webp"
+    },
+    {
+      "album": "Escom 1",
+      "categoria": "food",
+      "image": "Drafter-57.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Escom 1\\Drafter-57.webp"
+    },
+    {
+      "album": "Escom 1",
+      "categoria": "food",
+      "image": "Drafter-65.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Escom 1\\Drafter-65.webp"
+    },
+    {
+      "album": "Escom 1",
+      "categoria": "food",
+      "image": "ESCOM DIC-041.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Escom 1\\ESCOM DIC-041.webp"
+    },
+    {
+      "album": "Escom 1",
+      "categoria": "food",
+      "image": "ESCOM DIC-105.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Escom 1\\ESCOM DIC-105.webp"
+    },
+    {
+      "album": "Escom 1",
+      "categoria": "food",
+      "image": "ESCOM DIC-134.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Escom 1\\ESCOM DIC-134.webp"
+    },
+    {
+      "album": "Escom 1",
+      "categoria": "food",
+      "image": "escom febrero 2-095.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Escom 1\\escom febrero 2-095.webp"
+    },
+    {
+      "album": "Escom 1",
+      "categoria": "food",
+      "image": "escom febrero 2-150.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Escom 1\\escom febrero 2-150.webp"
+    },
+    {
+      "album": "Escom 1",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Escom 1\\portada.webp"
+    },
+    {
+      "album": "espit",
+      "categoria": "food",
+      "image": "Espit042025_-15.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\espit\\Espit042025_-15.webp"
+    },
+    {
+      "album": "espit",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\espit\\portada.webp"
+    },
+    {
+      "album": "FitCharron",
+      "categoria": "food",
+      "image": "11.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\FitCharron\\11.webp"
+    },
+    {
+      "album": "FitCharron",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\FitCharron\\portada.webp"
+    },
+    {
+      "album": "La fabrica Gourmet",
+      "categoria": "food",
+      "image": "9.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\La fabrica Gourmet\\9.webp"
+    },
+    {
+      "album": "La fabrica Gourmet",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\La fabrica Gourmet\\portada.webp"
+    },
+    {
+      "album": "Library",
+      "categoria": "food",
+      "image": "DRAFTER-104.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Library\\DRAFTER-104.webp"
+    },
+    {
+      "album": "Library",
+      "categoria": "food",
+      "image": "DRAFTER-119.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Library\\DRAFTER-119.webp"
+    },
+    {
+      "album": "Library",
+      "categoria": "food",
+      "image": "DRAFTER-3.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Library\\DRAFTER-3.webp"
+    },
+    {
+      "album": "Library",
+      "categoria": "food",
+      "image": "DRAFTER-60.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Library\\DRAFTER-60.webp"
+    },
+    {
+      "album": "Library",
+      "categoria": "food",
+      "image": "DRAFTER-81.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Library\\DRAFTER-81.webp"
+    },
+    {
+      "album": "Library",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Library\\portada.webp"
+    },
+    {
+      "album": "The Food Place",
+      "categoria": "food",
+      "image": "especial A.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\The Food Place\\especial A.webp"
+    },
+    {
+      "album": "The Food Place",
+      "categoria": "food",
+      "image": "pollo tocineta A.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\The Food Place\\pollo tocineta A.webp"
+    },
+    {
+      "album": "The Food Place",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\The Food Place\\portada.webp"
+    },
+    {
+      "album": "Tijuana Taquería",
+      "categoria": "food",
+      "image": "18.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tijuana Taquería\\18.webp"
+    },
+    {
+      "album": "Tijuana Taquería",
+      "categoria": "food",
+      "image": "7 3.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tijuana Taquería\\7 3.webp"
+    },
+    {
+      "album": "Tijuana Taquería",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tijuana Taquería\\portada.webp"
+    },
+    {
+      "album": "Tiki Tako",
+      "categoria": "food",
+      "image": "DSC03532.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tiki Tako\\DSC03532.webp"
+    },
+    {
+      "album": "Tiki Tako",
+      "categoria": "food",
+      "image": "DSC03565.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tiki Tako\\DSC03565.webp"
+    },
+    {
+      "album": "Tiki Tako",
+      "categoria": "food",
+      "image": "DSC06911.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tiki Tako\\DSC06911.webp"
+    },
+    {
+      "album": "Tiki Tako",
+      "categoria": "food",
+      "image": "_DSF6727.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tiki Tako\\_DSF6727.webp"
+    },
+    {
+      "album": "Tiki Tako",
+      "categoria": "food",
+      "image": "_DSF6751.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tiki Tako\\_DSF6751.webp"
+    },
+    {
+      "album": "Tiki Tako",
+      "categoria": "food",
+      "image": "_DSF6776.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tiki Tako\\_DSF6776.webp"
+    },
+    {
+      "album": "Tiki Tako",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Tiki Tako\\portada.webp"
+    },
+    {
+      "album": "TIKITAKO BEBIDAS",
+      "categoria": "food",
+      "image": "DSC08251.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\TIKITAKO BEBIDAS\\DSC08251.webp"
+    },
+    {
+      "album": "TIKITAKO BEBIDAS",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\TIKITAKO BEBIDAS\\portada.webp"
+    },
+    {
+      "album": "Various Artist",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Various Artist\\portada.webp"
+    },
+    {
+      "album": "Viu Burger Bar",
+      "categoria": "food",
+      "image": "3.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Viu Burger Bar\\3.webp"
+    },
+    {
+      "album": "Viu Burger Bar",
+      "categoria": "food",
+      "image": "7 2.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Viu Burger Bar\\7 2.webp"
+    },
+    {
+      "album": "Viu Burger Bar",
+      "categoria": "food",
+      "image": "viu 2.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Viu Burger Bar\\viu 2.webp"
+    },
+    {
+      "album": "Viu Burger Bar",
+      "categoria": "food",
+      "image": "viu 4.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Viu Burger Bar\\viu 4.webp"
+    },
+    {
+      "album": "Viu Burger Bar",
+      "categoria": "food",
+      "image": "viu 9.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Viu Burger Bar\\viu 9.webp"
+    },
+    {
+      "album": "Viu Burger Bar",
+      "categoria": "food",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\food\\Viu Burger Bar\\portada.webp"
+    },
+    {
+      "album": "A FUTURO",
+      "categoria": "moda",
+      "image": "Tissa_Summer25-10.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\A FUTURO\\Tissa_Summer25-10.webp"
+    },
+    {
+      "album": "A FUTURO",
+      "categoria": "moda",
+      "image": "Tissa_Summer25-15.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\A FUTURO\\Tissa_Summer25-15.webp"
+    },
+    {
+      "album": "A FUTURO",
+      "categoria": "moda",
+      "image": "Tissa_Summer25-6.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\A FUTURO\\Tissa_Summer25-6.webp"
+    },
+    {
+      "album": "A FUTURO",
+      "categoria": "moda",
+      "image": "Tissa_Summer25.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\A FUTURO\\Tissa_Summer25.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "10.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\10.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "11.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\11.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "13.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\13.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "14.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\14.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "1czxca.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\1czxca.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "29.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\29.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "3.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\3.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "34.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\34.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "7.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\7.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "8.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\8.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "ffdfd.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\ffdfd.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "lll.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\lll.webp"
+    },
+    {
+      "album": "Blond it",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Blond it\\portada.webp"
+    },
+    {
+      "album": "Buenaventura",
+      "categoria": "moda",
+      "image": "DRAFTER-10.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Buenaventura\\DRAFTER-10.webp"
+    },
+    {
+      "album": "Buenaventura",
+      "categoria": "moda",
+      "image": "DRAFTER-13.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Buenaventura\\DRAFTER-13.webp"
+    },
+    {
+      "album": "Buenaventura",
+      "categoria": "moda",
+      "image": "DRAFTER-15.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Buenaventura\\DRAFTER-15.webp"
+    },
+    {
+      "album": "Buenaventura",
+      "categoria": "moda",
+      "image": "DRAFTER.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Buenaventura\\DRAFTER.webp"
+    },
+    {
+      "album": "Buenaventura",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Buenaventura\\portada.webp"
+    },
+    {
+      "album": "Campaña Pride",
+      "categoria": "moda",
+      "image": "futbolista.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Campaña Pride\\futbolista.webp"
+    },
+    {
+      "album": "Campaña Pride",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Campaña Pride\\portada.webp"
+    },
+    {
+      "album": "Daniela tolosa",
+      "categoria": "moda",
+      "image": "DSC06062.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Daniela tolosa\\DSC06062.webp"
+    },
+    {
+      "album": "Daniela tolosa",
+      "categoria": "moda",
+      "image": "DSC06272.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Daniela tolosa\\DSC06272.webp"
+    },
+    {
+      "album": "Daniela tolosa",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Daniela tolosa\\portada.webp"
+    },
+    {
+      "album": "Leo",
+      "categoria": "moda",
+      "image": "LeoHanna-20.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Leo\\LeoHanna-20.webp"
+    },
+    {
+      "album": "Leo",
+      "categoria": "moda",
+      "image": "LeoHanna-21.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Leo\\LeoHanna-21.webp"
+    },
+    {
+      "album": "Leo",
+      "categoria": "moda",
+      "image": "LeoHanna-24.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Leo\\LeoHanna-24.webp"
+    },
+    {
+      "album": "Leo",
+      "categoria": "moda",
+      "image": "LeoHanna-28.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Leo\\LeoHanna-28.webp"
+    },
+    {
+      "album": "Make up world",
+      "categoria": "moda",
+      "image": "Alvin closed.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Make up world\\Alvin closed.webp"
+    },
+    {
+      "album": "Make up world",
+      "categoria": "moda",
+      "image": "her.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Make up world\\her.webp"
+    },
+    {
+      "album": "Make up world",
+      "categoria": "moda",
+      "image": "la mas valiosa.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Make up world\\la mas valiosa.webp"
+    },
+    {
+      "album": "Make up world",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Make up world\\portada.webp"
+    },
+    {
+      "album": "MRS TISSA",
+      "categoria": "moda",
+      "image": "TissaViñeta-12.jpg",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\MRS TISSA\\TissaViñeta-12.jpg"
+    },
+    {
+      "album": "MRS TISSA",
+      "categoria": "moda",
+      "image": "TissaViñeta-9.jpg",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\MRS TISSA\\TissaViñeta-9.jpg"
+    },
+    {
+      "album": "MRS TISSA",
+      "categoria": "moda",
+      "image": "Tissa_Detalle-5.jpg",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\MRS TISSA\\Tissa_Detalle-5.jpg"
+    },
+    {
+      "album": "MRS TISSA",
+      "categoria": "moda",
+      "image": "portada.jpg",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\MRS TISSA\\portada.jpg"
+    },
+    {
+      "album": "Portrait",
+      "categoria": "moda",
+      "image": "DSC03845.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Portrait\\DSC03845.webp"
+    },
+    {
+      "album": "Portrait",
+      "categoria": "moda",
+      "image": "Plano medio 3.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Portrait\\Plano medio 3.webp"
+    },
+    {
+      "album": "Portrait",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Portrait\\portada.webp"
+    },
+    {
+      "album": "Robert Grey",
+      "categoria": "moda",
+      "image": "DSC07778.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Robert Grey\\DSC07778.webp"
+    },
+    {
+      "album": "Robert Grey",
+      "categoria": "moda",
+      "image": "DSC07784.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Robert Grey\\DSC07784.webp"
+    },
+    {
+      "album": "Robert Grey",
+      "categoria": "moda",
+      "image": "DSC07790.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Robert Grey\\DSC07790.webp"
+    },
+    {
+      "album": "Robert Grey",
+      "categoria": "moda",
+      "image": "DSC07894.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Robert Grey\\DSC07894.webp"
+    },
+    {
+      "album": "Robert Grey",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Robert Grey\\portada.webp"
+    },
+    {
+      "album": "Sergei",
+      "categoria": "moda",
+      "image": "B&W Pina-2.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Sergei\\B&W Pina-2.webp"
+    },
+    {
+      "album": "Sergei",
+      "categoria": "moda",
+      "image": "B&W Pina-5.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Sergei\\B&W Pina-5.webp"
+    },
+    {
+      "album": "Sergei",
+      "categoria": "moda",
+      "image": "S&X-3.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Sergei\\S&X-3.webp"
+    },
+    {
+      "album": "Sergei",
+      "categoria": "moda",
+      "image": "S&X-4.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Sergei\\S&X-4.webp"
+    },
+    {
+      "album": "Sergei",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Sergei\\portada.webp"
+    },
+    {
+      "album": "Sergio Odontología",
+      "categoria": "moda",
+      "image": "sergio-25.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Sergio Odontología\\sergio-25.webp"
+    },
+    {
+      "album": "Sergio Odontología",
+      "categoria": "moda",
+      "image": "sergio-30.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Sergio Odontología\\sergio-30.webp"
+    },
+    {
+      "album": "Sergio Odontología",
+      "categoria": "moda",
+      "image": "sergio-31.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Sergio Odontología\\sergio-31.webp"
+    },
+    {
+      "album": "Sergio Odontología",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Sergio Odontología\\portada.webp"
+    },
+    {
+      "album": "TISSA BAGS",
+      "categoria": "moda",
+      "image": "Tissa_Detalle-2.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\TISSA BAGS\\Tissa_Detalle-2.webp"
+    },
+    {
+      "album": "TISSA BAGS",
+      "categoria": "moda",
+      "image": "Tissa_Detalle.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\TISSA BAGS\\Tissa_Detalle.webp"
+    },
+    {
+      "album": "TISSA BAGS",
+      "categoria": "moda",
+      "image": "Tissa_Summer-13.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\TISSA BAGS\\Tissa_Summer-13.webp"
+    },
+    {
+      "album": "TISSA BAGS",
+      "categoria": "moda",
+      "image": "Tissa_Summer-14.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\TISSA BAGS\\Tissa_Summer-14.webp"
+    },
+    {
+      "album": "TISSA BAGS",
+      "categoria": "moda",
+      "image": "Tissa_Summer-3.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\TISSA BAGS\\Tissa_Summer-3.webp"
+    },
+    {
+      "album": "TISSA BAGS",
+      "categoria": "moda",
+      "image": "Tissa_Summer-5.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\TISSA BAGS\\Tissa_Summer-5.webp"
+    },
+    {
+      "album": "TISSA BAGS",
+      "categoria": "moda",
+      "image": "Tissa_Summer.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\TISSA BAGS\\Tissa_Summer.webp"
+    },
+    {
+      "album": "TISSA BAGS",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\TISSA BAGS\\portada.webp"
+    },
+    {
+      "album": "Victor Fisioterapia",
+      "categoria": "moda",
+      "image": "Fisio.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Victor Fisioterapia\\Fisio.webp"
+    },
+    {
+      "album": "Victor Fisioterapia",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\Victor Fisioterapia\\portada.webp"
+    },
+    {
+      "album": "XU",
+      "categoria": "moda",
+      "image": "B&W Pina-14.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\XU\\B&W Pina-14.webp"
+    },
+    {
+      "album": "XU",
+      "categoria": "moda",
+      "image": "S&X-10.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\XU\\S&X-10.webp"
+    },
+    {
+      "album": "XU",
+      "categoria": "moda",
+      "image": "S&X-8.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\XU\\S&X-8.webp"
+    },
+    {
+      "album": "XU",
+      "categoria": "moda",
+      "image": "portada.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\moda\\XU\\portada.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "DSC04997.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\DSC04997.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Enbabia_abril_2025-14.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Enbabia_abril_2025-14.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Enbabia_abril_2025-29.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Enbabia_abril_2025-29.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Enbabia_abril_2025-33.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Enbabia_abril_2025-33.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Espit042025_-16.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Espit042025_-16.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Espit042025_-34.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Espit042025_-34.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Espit0525-36.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Espit0525-36.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Party_Tour_-15.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Party_Tour_-15.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Party_Tour_-17.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Party_Tour_-17.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Social.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Social.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Spit-26.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Spit-26.webp"
+    },
+    {
+      "album": "social",
+      "categoria": "social",
+      "image": "Street style.webp",
+      "path": "public\\Portafolio Drafter 2025 julio\\Portafolio Drafter 2025 julio\\social\\Street style.webp"
+    }
+  ]
+}

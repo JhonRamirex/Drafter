@@ -1,0 +1,151 @@
+/* Usando las fuentes del proyecto - Sofia Pro */
+
+.cosmic-section {
+  position: relative;
+  min-height: 100vh;
+  background-color: #0a0a0a;
+  color: #f5f5f5;
+  overflow: hidden;
+}
+
+.cosmic-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.content {
+  position: relative;
+  z-index: 2;
+}
+
+.section {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.section-inner {
+  width: 100%;
+  padding: 0 5%;
+  max-width: 1600px;
+  margin: 0 auto;
+  pointer-events: auto;
+}
+
+/* Sección derecha para Flash Cósmico */
+.section-right .section-inner {
+  text-align: right;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.section-right .description {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.title {
+  font-family: 'Sofia Pro', 'Inter', system-ui, sans-serif;
+  font-size: clamp(3rem, 12vw, 6rem);
+  line-height: 0.9;
+  margin-bottom: 2rem;
+  font-weight: 900;
+  opacity: 1; /* Cambiado de 0 a 1 para asegurar visibilidad */
+  transform: translateY(0); /* Cambiado de 50px a 0 */
+  text-transform: uppercase;
+  color: #f5f5f5;
+  letter-spacing: -0.03em;
+  background: linear-gradient(to right, #fff, #a8a8a8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 30px rgba(255, 255, 255, 0.1);
+}
+
+.description {
+  font-family: 'Sofia Pro', 'Inter', system-ui, sans-serif;
+  font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+  max-width: 920px; /* Corregido de 9200px a 920px */
+  margin-bottom: 3rem;
+  opacity: 1; /* Cambiado de 0 a 1 para asegurar visibilidad */
+  transform: translateY(0); /* Cambiado de 30px a 0 */
+  color: rgba(245, 245, 245, 0.8);
+  font-weight: 400;
+  line-height: 1.7;
+  letter-spacing: 0.01em;
+}
+
+.footer {
+  position: relative;
+  margin-top: auto;
+  font-size: 0.875rem;
+  color: rgba(245, 245, 245, 0.7);
+  font-family: 'Sofia Pro', 'Inter', system-ui, sans-serif;
+  font-weight: 400;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  border-top: 1px solid rgba(147, 51, 234, 0.2);
+  width: 100%;
+}
+
+/* Mejoras para iPad Pro y tablets */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .title {
+    font-size: clamp(3.5rem, 8vw, 5rem);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+  }
+
+  .description {
+    font-size: clamp(1.2rem, 2vw, 1.4rem);
+    line-height: 1.6;
+    max-width: 800px;
+  }
+
+  .section-inner {
+    padding: 0 8%;
+  }
+}
+
+@media (max-width: 767px) {
+  .title {
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+  }
+
+  .description {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    max-width: 100%;
+  }
+
+  .footer {
+    width: 100%;
+    text-align: center;
+    left: 0;
+  }
+
+  .section-inner {
+    padding: 0 4%;
+  }
+}
+
+/* Efectos adicionales para Sofia Pro */
+.title:hover {
+  background: linear-gradient(to right, #fff, #8b5cf6, #ec4899);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease;
+}
+
+.description:hover {
+  color: rgba(245, 245, 245, 0.95);
+  transition: color 0.3s ease;
+} 

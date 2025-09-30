@@ -1,0 +1,1436 @@
+{
+  "metadata": {
+    "generadoEl": "2025-07-30T14:49:41.962Z",
+    "version": "1.0.0",
+    "estadisticas": {
+      "totalAlbums": 45,
+      "totalImages": 209,
+      "categories": {
+        "arquitectura": 7,
+        "food": 22,
+        "moda": 15,
+        "social": 1
+      }
+    }
+  },
+  "categorias": {
+    "arquitectura": [
+      {
+        "categoria": "arquitectura",
+        "album": "Downtown Boutique",
+        "albumNormalizado": "downtown-boutique",
+        "ruta": "/galeria/arquitectura/downtown-boutique",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Downtown Boutique",
+        "imagenes": [
+          "Cisneros 2-25.webp",
+          "Cisneros 2-29.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 3,
+        "fechaCreacion": "2025-07-30T14:49:41.882Z"
+      },
+      {
+        "categoria": "arquitectura",
+        "album": "Hortaleza",
+        "albumNormalizado": "hortaleza",
+        "ruta": "/galeria/arquitectura/hortaleza",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Hortaleza",
+        "imagenes": [
+          "HORTALEZA-10.webp",
+          "HORTALEZA-12.webp",
+          "HORTALEZA-6.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.887Z"
+      },
+      {
+        "categoria": "arquitectura",
+        "album": "Madrid Suite",
+        "albumNormalizado": "madrid-suite",
+        "ruta": "/galeria/arquitectura/madrid-suite",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Madrid Suite",
+        "imagenes": [
+          "DSC05941.webp",
+          "DSC05946-HDR.webp",
+          "DSC06019.webp",
+          "DSC06055-Editar.webp",
+          "DSC06059.webp",
+          "DSC06069.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 7,
+        "fechaCreacion": "2025-07-30T14:49:41.889Z"
+      },
+      {
+        "categoria": "arquitectura",
+        "album": "Real State",
+        "albumNormalizado": "real-state",
+        "ruta": "/galeria/arquitectura/real-state",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Real State",
+        "imagenes": [
+          "Joaquin-11.webp",
+          "Joaquin-25.webp",
+          "Joaquin-28.webp",
+          "Joaquin-33.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 5,
+        "fechaCreacion": "2025-07-30T14:49:41.890Z"
+      },
+      {
+        "categoria": "arquitectura",
+        "album": "San Cayetano",
+        "albumNormalizado": "san-cayetano",
+        "ruta": "/galeria/arquitectura/san-cayetano",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/San Cayetano",
+        "imagenes": [
+          "San_cayetano-10.webp",
+          "San_cayetano-30.webp",
+          "San_cayetano-33.webp",
+          "San_cayetano-52.webp",
+          "San_cayetano-53.webp"
+        ],
+        "totalImagenes": 5,
+        "fechaCreacion": "2025-07-30T14:49:41.891Z"
+      },
+      {
+        "categoria": "arquitectura",
+        "album": "Tirso de molina",
+        "albumNormalizado": "tirso-de-molina",
+        "ruta": "/galeria/arquitectura/tirso-de-molina",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Tirso de molina",
+        "imagenes": [
+          "Conde B-18.webp",
+          "Conde B-34.webp",
+          "Conde B-40.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.892Z"
+      },
+      {
+        "categoria": "arquitectura",
+        "album": "Zafra",
+        "albumNormalizado": "zafra",
+        "ruta": "/galeria/arquitectura/zafra",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Zafra",
+        "imagenes": [
+          "DSC05456-Editar.webp",
+          "DSC05472-HDR.webp",
+          "DSC05494-HDR.webp",
+          "DSC05601.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 5,
+        "fechaCreacion": "2025-07-30T14:49:41.892Z"
+      }
+    ],
+    "food": [
+      {
+        "categoria": "food",
+        "album": "1975",
+        "albumNormalizado": "1975",
+        "ruta": "/galeria/food/1975",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/1975",
+        "imagenes": [
+          "causa 2.webp",
+          "IMG_8417.webp",
+          "IMG_8823.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.906Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Aperol Spritz",
+        "albumNormalizado": "aperol-spritz",
+        "ruta": "/galeria/food/aperol-spritz",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Aperol Spritz",
+        "imagenes": [
+          "Drafter2.0-33.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.907Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Asados al carbon",
+        "albumNormalizado": "asados-al-carbon",
+        "ruta": "/galeria/food/asados-al-carbon",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Asados al carbon",
+        "imagenes": [
+          "DSC00877.webp",
+          "DSC00935.webp",
+          "DSC00984.webp",
+          "DSC01403.webp",
+          "DSC03272.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 6,
+        "fechaCreacion": "2025-07-30T14:49:41.908Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Cibó",
+        "albumNormalizado": "cibo",
+        "ruta": "/galeria/food/cibo",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Cibó",
+        "imagenes": [
+          "DSC00079.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.909Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Commo",
+        "albumNormalizado": "commo",
+        "ruta": "/galeria/food/commo",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Commo",
+        "imagenes": [
+          "Espit0525-36.webp",
+          "Social.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.910Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Crepas Con Cosas",
+        "albumNormalizado": "crepas-con-cosas",
+        "ruta": "/galeria/food/crepas-con-cosas",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Crepas Con Cosas",
+        "imagenes": [
+          "IMG_5948.webp",
+          "IMG_6000.webp",
+          "IMG_6018.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.911Z"
+      },
+      {
+        "categoria": "food",
+        "album": "El Gran Langostino Tienda Gourmet",
+        "albumNormalizado": "el-gran-langostino-tienda-gourmet",
+        "ruta": "/galeria/food/el-gran-langostino-tienda-gourmet",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/El Gran Langostino Tienda Gourmet",
+        "imagenes": [
+          "DSC09486 copia.webp",
+          "DSC09511.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 3,
+        "fechaCreacion": "2025-07-30T14:49:41.912Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Enbabia 2",
+        "albumNormalizado": "enbabia-2",
+        "ruta": "/galeria/food/enbabia-2",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Enbabia 2",
+        "imagenes": [
+          "spit-086.webp",
+          "spit-088.webp",
+          "spit-094.webp",
+          "spit-095.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 5,
+        "fechaCreacion": "2025-07-30T14:49:41.913Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Enbabia Infused Bar",
+        "albumNormalizado": "enbabia-infused-bar",
+        "ruta": "/galeria/food/enbabia-infused-bar",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Enbabia Infused Bar",
+        "imagenes": [
+          "Drafter2.0-12.webp",
+          "Drafter2.0-14.webp",
+          "Drafter2.0-15.webp",
+          "Drafter2.0-19.webp",
+          "Drafter2.0-20.webp",
+          "Drafter2.0-31.webp",
+          "Enbabia-028.webp",
+          "Enbabia-033.webp",
+          "Enbabia-071.webp",
+          "Enbabia-083.webp",
+          "spit-071.webp",
+          "spit-080.webp",
+          "spit-087.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 14,
+        "fechaCreacion": "2025-07-30T14:49:41.916Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Enbabia Library",
+        "albumNormalizado": "enbabia-library",
+        "ruta": "/galeria/food/enbabia-library",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Enbabia Library",
+        "imagenes": [
+          "DRAFTER-109.webp",
+          "DRAFTER-17.webp",
+          "DRAFTER-28.webp",
+          "DRAFTER-31.webp",
+          "DRAFTER-55.webp",
+          "DRAFTER-57.webp",
+          "DRAFTER-89.webp"
+        ],
+        "totalImagenes": 7,
+        "fechaCreacion": "2025-07-30T14:49:41.918Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Entre Comillas",
+        "albumNormalizado": "entre-comillas",
+        "ruta": "/galeria/food/entre-comillas",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Entre Comillas",
+        "imagenes": [
+          "IMG_5775.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.920Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Escom 1",
+        "albumNormalizado": "escom-1",
+        "ruta": "/galeria/food/escom-1",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Escom 1",
+        "imagenes": [
+          "Drafter-05.webp",
+          "Drafter-57.webp",
+          "Drafter-65.webp",
+          "ESCOM DIC-041.webp",
+          "ESCOM DIC-105.webp",
+          "ESCOM DIC-134.webp",
+          "escom febrero 2-095.webp",
+          "escom febrero 2-150.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 9,
+        "fechaCreacion": "2025-07-30T14:49:41.921Z"
+      },
+      {
+        "categoria": "food",
+        "album": "espit",
+        "albumNormalizado": "espit",
+        "ruta": "/galeria/food/espit",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/espit",
+        "imagenes": [
+          "Espit042025_-15.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.922Z"
+      },
+      {
+        "categoria": "food",
+        "album": "FitCharron",
+        "albumNormalizado": "fitcharron",
+        "ruta": "/galeria/food/fitcharron",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/FitCharron",
+        "imagenes": [
+          "11.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.923Z"
+      },
+      {
+        "categoria": "food",
+        "album": "La fabrica Gourmet",
+        "albumNormalizado": "la-fabrica-gourmet",
+        "ruta": "/galeria/food/la-fabrica-gourmet",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/La fabrica Gourmet",
+        "imagenes": [
+          "9.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.923Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Library",
+        "albumNormalizado": "library",
+        "ruta": "/galeria/food/library",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Library",
+        "imagenes": [
+          "DRAFTER-104.webp",
+          "DRAFTER-119.webp",
+          "DRAFTER-3.webp",
+          "DRAFTER-60.webp",
+          "DRAFTER-81.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 6,
+        "fechaCreacion": "2025-07-30T14:49:41.924Z"
+      },
+      {
+        "categoria": "food",
+        "album": "The Food Place",
+        "albumNormalizado": "the-food-place",
+        "ruta": "/galeria/food/the-food-place",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/The Food Place",
+        "imagenes": [
+          "especial A.webp",
+          "pollo tocineta A.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 3,
+        "fechaCreacion": "2025-07-30T14:49:41.924Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Tijuana Taquería",
+        "albumNormalizado": "tijuana-taqueria",
+        "ruta": "/galeria/food/tijuana-taqueria",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Tijuana Taquería",
+        "imagenes": [
+          "18.webp",
+          "7 3.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 3,
+        "fechaCreacion": "2025-07-30T14:49:41.925Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Tiki Tako",
+        "albumNormalizado": "tiki-tako",
+        "ruta": "/galeria/food/tiki-tako",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Tiki Tako",
+        "imagenes": [
+          "DSC03532.webp",
+          "DSC03565.webp",
+          "DSC06911.webp",
+          "_DSF6727.webp",
+          "_DSF6751.webp",
+          "_DSF6776.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 7,
+        "fechaCreacion": "2025-07-30T14:49:41.926Z"
+      },
+      {
+        "categoria": "food",
+        "album": "TIKITAKO BEBIDAS",
+        "albumNormalizado": "tikitako-bebidas",
+        "ruta": "/galeria/food/tikitako-bebidas",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/TIKITAKO BEBIDAS",
+        "imagenes": [
+          "DSC08251.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.927Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Various Artist",
+        "albumNormalizado": "various-artist",
+        "ruta": "/galeria/food/various-artist",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Various Artist",
+        "imagenes": [
+          "portada.webp"
+        ],
+        "totalImagenes": 1,
+        "fechaCreacion": "2025-07-30T14:49:41.928Z"
+      },
+      {
+        "categoria": "food",
+        "album": "Viu Burger Bar",
+        "albumNormalizado": "viu-burger-bar",
+        "ruta": "/galeria/food/viu-burger-bar",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/food/Viu Burger Bar",
+        "imagenes": [
+          "3.webp",
+          "7 2.webp",
+          "viu 2.webp",
+          "viu 4.webp",
+          "viu 9.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 6,
+        "fechaCreacion": "2025-07-30T14:49:41.930Z"
+      }
+    ],
+    "moda": [
+      {
+        "categoria": "moda",
+        "album": "A FUTURO",
+        "albumNormalizado": "a-futuro",
+        "ruta": "/galeria/moda/a-futuro",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/A FUTURO",
+        "imagenes": [
+          "Tissa_Summer25-10.webp",
+          "Tissa_Summer25-15.webp",
+          "Tissa_Summer25-6.webp",
+          "Tissa_Summer25.webp"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.935Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Blond it",
+        "albumNormalizado": "blond-it",
+        "ruta": "/galeria/moda/blond-it",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Blond it",
+        "imagenes": [
+          "10.webp",
+          "11.webp",
+          "13.webp",
+          "14.webp",
+          "1czxca.webp",
+          "29.webp",
+          "3.webp",
+          "34.webp",
+          "7.webp",
+          "8.webp",
+          "ffdfd.webp",
+          "lll.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 13,
+        "fechaCreacion": "2025-07-30T14:49:41.936Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Buenaventura",
+        "albumNormalizado": "buenaventura",
+        "ruta": "/galeria/moda/buenaventura",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Buenaventura",
+        "imagenes": [
+          "DRAFTER-10.webp",
+          "DRAFTER-13.webp",
+          "DRAFTER-15.webp",
+          "DRAFTER.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 5,
+        "fechaCreacion": "2025-07-30T14:49:41.938Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Campaña Pride",
+        "albumNormalizado": "campana-pride",
+        "ruta": "/galeria/moda/campana-pride",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Campaña Pride",
+        "imagenes": [
+          "futbolista.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.939Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Daniela tolosa",
+        "albumNormalizado": "daniela-tolosa",
+        "ruta": "/galeria/moda/daniela-tolosa",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Daniela tolosa",
+        "imagenes": [
+          "DSC06062.webp",
+          "DSC06272.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 3,
+        "fechaCreacion": "2025-07-30T14:49:41.940Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Leo",
+        "albumNormalizado": "leo",
+        "ruta": "/galeria/moda/leo",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Leo",
+        "imagenes": [
+          "LeoHanna-20.webp",
+          "LeoHanna-21.webp",
+          "LeoHanna-24.webp",
+          "LeoHanna-28.webp"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.941Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Make up world",
+        "albumNormalizado": "make-up-world",
+        "ruta": "/galeria/moda/make-up-world",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Make up world",
+        "imagenes": [
+          "Alvin closed.webp",
+          "her.webp",
+          "la mas valiosa.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.942Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "MRS TISSA",
+        "albumNormalizado": "mrs-tissa",
+        "ruta": "/galeria/moda/mrs-tissa",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/MRS TISSA",
+        "imagenes": [
+          "TissaViñeta-12.jpg",
+          "TissaViñeta-9.jpg",
+          "Tissa_Detalle-5.jpg",
+          "portada.jpg"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.943Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Portrait",
+        "albumNormalizado": "portrait",
+        "ruta": "/galeria/moda/portrait",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Portrait",
+        "imagenes": [
+          "DSC03845.webp",
+          "Plano medio 3.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 3,
+        "fechaCreacion": "2025-07-30T14:49:41.944Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Robert Grey",
+        "albumNormalizado": "robert-grey",
+        "ruta": "/galeria/moda/robert-grey",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Robert Grey",
+        "imagenes": [
+          "DSC07778.webp",
+          "DSC07784.webp",
+          "DSC07790.webp",
+          "DSC07894.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 5,
+        "fechaCreacion": "2025-07-30T14:49:41.948Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Sergei",
+        "albumNormalizado": "sergei",
+        "ruta": "/galeria/moda/sergei",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Sergei",
+        "imagenes": [
+          "B&W Pina-2.webp",
+          "B&W Pina-5.webp",
+          "S&X-3.webp",
+          "S&X-4.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 5,
+        "fechaCreacion": "2025-07-30T14:49:41.949Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Sergio Odontología",
+        "albumNormalizado": "sergio-odontologia",
+        "ruta": "/galeria/moda/sergio-odontologia",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Sergio Odontología",
+        "imagenes": [
+          "sergio-25.webp",
+          "sergio-30.webp",
+          "sergio-31.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.951Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "TISSA BAGS",
+        "albumNormalizado": "tissa-bags",
+        "ruta": "/galeria/moda/tissa-bags",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/TISSA BAGS",
+        "imagenes": [
+          "Tissa_Detalle-2.webp",
+          "Tissa_Detalle.webp",
+          "Tissa_Summer-13.webp",
+          "Tissa_Summer-14.webp",
+          "Tissa_Summer-3.webp",
+          "Tissa_Summer-5.webp",
+          "Tissa_Summer.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 8,
+        "fechaCreacion": "2025-07-30T14:49:41.952Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "Victor Fisioterapia",
+        "albumNormalizado": "victor-fisioterapia",
+        "ruta": "/galeria/moda/victor-fisioterapia",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Victor Fisioterapia",
+        "imagenes": [
+          "Fisio.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 2,
+        "fechaCreacion": "2025-07-30T14:49:41.956Z"
+      },
+      {
+        "categoria": "moda",
+        "album": "XU",
+        "albumNormalizado": "xu",
+        "ruta": "/galeria/moda/xu",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/moda/XU",
+        "imagenes": [
+          "B&W Pina-14.webp",
+          "S&X-10.webp",
+          "S&X-8.webp",
+          "portada.webp"
+        ],
+        "totalImagenes": 4,
+        "fechaCreacion": "2025-07-30T14:49:41.957Z"
+      }
+    ],
+    "social": [
+      {
+        "categoria": "social",
+        "album": "social",
+        "albumNormalizado": "social",
+        "ruta": "/galeria/social/social",
+        "rutaFisica": "/Portafolio Drafter 2025 julio/social",
+        "imagenes": [
+          "DSC04997.webp",
+          "Enbabia_abril_2025-14.webp",
+          "Enbabia_abril_2025-29.webp",
+          "Enbabia_abril_2025-33.webp",
+          "Espit042025_-16.webp",
+          "Espit042025_-34.webp",
+          "Espit0525-36.webp",
+          "Party_Tour_-15.webp",
+          "Party_Tour_-17.webp",
+          "Social.webp",
+          "Spit-26.webp",
+          "Street style.webp"
+        ],
+        "totalImagenes": 12,
+        "fechaCreacion": "2025-07-30T14:49:41.961Z"
+      }
+    ]
+  },
+  "albumes": [
+    {
+      "categoria": "arquitectura",
+      "album": "Downtown Boutique",
+      "albumNormalizado": "downtown-boutique",
+      "ruta": "/galeria/arquitectura/downtown-boutique",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Downtown Boutique",
+      "imagenes": [
+        "Cisneros 2-25.webp",
+        "Cisneros 2-29.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 3,
+      "fechaCreacion": "2025-07-30T14:49:41.882Z"
+    },
+    {
+      "categoria": "arquitectura",
+      "album": "Hortaleza",
+      "albumNormalizado": "hortaleza",
+      "ruta": "/galeria/arquitectura/hortaleza",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Hortaleza",
+      "imagenes": [
+        "HORTALEZA-10.webp",
+        "HORTALEZA-12.webp",
+        "HORTALEZA-6.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.887Z"
+    },
+    {
+      "categoria": "arquitectura",
+      "album": "Madrid Suite",
+      "albumNormalizado": "madrid-suite",
+      "ruta": "/galeria/arquitectura/madrid-suite",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Madrid Suite",
+      "imagenes": [
+        "DSC05941.webp",
+        "DSC05946-HDR.webp",
+        "DSC06019.webp",
+        "DSC06055-Editar.webp",
+        "DSC06059.webp",
+        "DSC06069.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 7,
+      "fechaCreacion": "2025-07-30T14:49:41.889Z"
+    },
+    {
+      "categoria": "arquitectura",
+      "album": "Real State",
+      "albumNormalizado": "real-state",
+      "ruta": "/galeria/arquitectura/real-state",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Real State",
+      "imagenes": [
+        "Joaquin-11.webp",
+        "Joaquin-25.webp",
+        "Joaquin-28.webp",
+        "Joaquin-33.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 5,
+      "fechaCreacion": "2025-07-30T14:49:41.890Z"
+    },
+    {
+      "categoria": "arquitectura",
+      "album": "San Cayetano",
+      "albumNormalizado": "san-cayetano",
+      "ruta": "/galeria/arquitectura/san-cayetano",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/San Cayetano",
+      "imagenes": [
+        "San_cayetano-10.webp",
+        "San_cayetano-30.webp",
+        "San_cayetano-33.webp",
+        "San_cayetano-52.webp",
+        "San_cayetano-53.webp"
+      ],
+      "totalImagenes": 5,
+      "fechaCreacion": "2025-07-30T14:49:41.891Z"
+    },
+    {
+      "categoria": "arquitectura",
+      "album": "Tirso de molina",
+      "albumNormalizado": "tirso-de-molina",
+      "ruta": "/galeria/arquitectura/tirso-de-molina",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Tirso de molina",
+      "imagenes": [
+        "Conde B-18.webp",
+        "Conde B-34.webp",
+        "Conde B-40.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.892Z"
+    },
+    {
+      "categoria": "arquitectura",
+      "album": "Zafra",
+      "albumNormalizado": "zafra",
+      "ruta": "/galeria/arquitectura/zafra",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/arquitectura/Zafra",
+      "imagenes": [
+        "DSC05456-Editar.webp",
+        "DSC05472-HDR.webp",
+        "DSC05494-HDR.webp",
+        "DSC05601.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 5,
+      "fechaCreacion": "2025-07-30T14:49:41.892Z"
+    },
+    {
+      "categoria": "food",
+      "album": "1975",
+      "albumNormalizado": "1975",
+      "ruta": "/galeria/food/1975",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/1975",
+      "imagenes": [
+        "causa 2.webp",
+        "IMG_8417.webp",
+        "IMG_8823.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.906Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Aperol Spritz",
+      "albumNormalizado": "aperol-spritz",
+      "ruta": "/galeria/food/aperol-spritz",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Aperol Spritz",
+      "imagenes": [
+        "Drafter2.0-33.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.907Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Asados al carbon",
+      "albumNormalizado": "asados-al-carbon",
+      "ruta": "/galeria/food/asados-al-carbon",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Asados al carbon",
+      "imagenes": [
+        "DSC00877.webp",
+        "DSC00935.webp",
+        "DSC00984.webp",
+        "DSC01403.webp",
+        "DSC03272.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 6,
+      "fechaCreacion": "2025-07-30T14:49:41.908Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Cibó",
+      "albumNormalizado": "cibo",
+      "ruta": "/galeria/food/cibo",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Cibó",
+      "imagenes": [
+        "DSC00079.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.909Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Commo",
+      "albumNormalizado": "commo",
+      "ruta": "/galeria/food/commo",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Commo",
+      "imagenes": [
+        "Espit0525-36.webp",
+        "Social.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.910Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Crepas Con Cosas",
+      "albumNormalizado": "crepas-con-cosas",
+      "ruta": "/galeria/food/crepas-con-cosas",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Crepas Con Cosas",
+      "imagenes": [
+        "IMG_5948.webp",
+        "IMG_6000.webp",
+        "IMG_6018.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.911Z"
+    },
+    {
+      "categoria": "food",
+      "album": "El Gran Langostino Tienda Gourmet",
+      "albumNormalizado": "el-gran-langostino-tienda-gourmet",
+      "ruta": "/galeria/food/el-gran-langostino-tienda-gourmet",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/El Gran Langostino Tienda Gourmet",
+      "imagenes": [
+        "DSC09486 copia.webp",
+        "DSC09511.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 3,
+      "fechaCreacion": "2025-07-30T14:49:41.912Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Enbabia 2",
+      "albumNormalizado": "enbabia-2",
+      "ruta": "/galeria/food/enbabia-2",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Enbabia 2",
+      "imagenes": [
+        "spit-086.webp",
+        "spit-088.webp",
+        "spit-094.webp",
+        "spit-095.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 5,
+      "fechaCreacion": "2025-07-30T14:49:41.913Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Enbabia Infused Bar",
+      "albumNormalizado": "enbabia-infused-bar",
+      "ruta": "/galeria/food/enbabia-infused-bar",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Enbabia Infused Bar",
+      "imagenes": [
+        "Drafter2.0-12.webp",
+        "Drafter2.0-14.webp",
+        "Drafter2.0-15.webp",
+        "Drafter2.0-19.webp",
+        "Drafter2.0-20.webp",
+        "Drafter2.0-31.webp",
+        "Enbabia-028.webp",
+        "Enbabia-033.webp",
+        "Enbabia-071.webp",
+        "Enbabia-083.webp",
+        "spit-071.webp",
+        "spit-080.webp",
+        "spit-087.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 14,
+      "fechaCreacion": "2025-07-30T14:49:41.916Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Enbabia Library",
+      "albumNormalizado": "enbabia-library",
+      "ruta": "/galeria/food/enbabia-library",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Enbabia Library",
+      "imagenes": [
+        "DRAFTER-109.webp",
+        "DRAFTER-17.webp",
+        "DRAFTER-28.webp",
+        "DRAFTER-31.webp",
+        "DRAFTER-55.webp",
+        "DRAFTER-57.webp",
+        "DRAFTER-89.webp"
+      ],
+      "totalImagenes": 7,
+      "fechaCreacion": "2025-07-30T14:49:41.918Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Entre Comillas",
+      "albumNormalizado": "entre-comillas",
+      "ruta": "/galeria/food/entre-comillas",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Entre Comillas",
+      "imagenes": [
+        "IMG_5775.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.920Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Escom 1",
+      "albumNormalizado": "escom-1",
+      "ruta": "/galeria/food/escom-1",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Escom 1",
+      "imagenes": [
+        "Drafter-05.webp",
+        "Drafter-57.webp",
+        "Drafter-65.webp",
+        "ESCOM DIC-041.webp",
+        "ESCOM DIC-105.webp",
+        "ESCOM DIC-134.webp",
+        "escom febrero 2-095.webp",
+        "escom febrero 2-150.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 9,
+      "fechaCreacion": "2025-07-30T14:49:41.921Z"
+    },
+    {
+      "categoria": "food",
+      "album": "espit",
+      "albumNormalizado": "espit",
+      "ruta": "/galeria/food/espit",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/espit",
+      "imagenes": [
+        "Espit042025_-15.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.922Z"
+    },
+    {
+      "categoria": "food",
+      "album": "FitCharron",
+      "albumNormalizado": "fitcharron",
+      "ruta": "/galeria/food/fitcharron",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/FitCharron",
+      "imagenes": [
+        "11.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.923Z"
+    },
+    {
+      "categoria": "food",
+      "album": "La fabrica Gourmet",
+      "albumNormalizado": "la-fabrica-gourmet",
+      "ruta": "/galeria/food/la-fabrica-gourmet",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/La fabrica Gourmet",
+      "imagenes": [
+        "9.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.923Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Library",
+      "albumNormalizado": "library",
+      "ruta": "/galeria/food/library",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Library",
+      "imagenes": [
+        "DRAFTER-104.webp",
+        "DRAFTER-119.webp",
+        "DRAFTER-3.webp",
+        "DRAFTER-60.webp",
+        "DRAFTER-81.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 6,
+      "fechaCreacion": "2025-07-30T14:49:41.924Z"
+    },
+    {
+      "categoria": "food",
+      "album": "The Food Place",
+      "albumNormalizado": "the-food-place",
+      "ruta": "/galeria/food/the-food-place",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/The Food Place",
+      "imagenes": [
+        "especial A.webp",
+        "pollo tocineta A.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 3,
+      "fechaCreacion": "2025-07-30T14:49:41.924Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Tijuana Taquería",
+      "albumNormalizado": "tijuana-taqueria",
+      "ruta": "/galeria/food/tijuana-taqueria",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Tijuana Taquería",
+      "imagenes": [
+        "18.webp",
+        "7 3.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 3,
+      "fechaCreacion": "2025-07-30T14:49:41.925Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Tiki Tako",
+      "albumNormalizado": "tiki-tako",
+      "ruta": "/galeria/food/tiki-tako",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Tiki Tako",
+      "imagenes": [
+        "DSC03532.webp",
+        "DSC03565.webp",
+        "DSC06911.webp",
+        "_DSF6727.webp",
+        "_DSF6751.webp",
+        "_DSF6776.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 7,
+      "fechaCreacion": "2025-07-30T14:49:41.926Z"
+    },
+    {
+      "categoria": "food",
+      "album": "TIKITAKO BEBIDAS",
+      "albumNormalizado": "tikitako-bebidas",
+      "ruta": "/galeria/food/tikitako-bebidas",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/TIKITAKO BEBIDAS",
+      "imagenes": [
+        "DSC08251.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.927Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Various Artist",
+      "albumNormalizado": "various-artist",
+      "ruta": "/galeria/food/various-artist",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Various Artist",
+      "imagenes": [
+        "portada.webp"
+      ],
+      "totalImagenes": 1,
+      "fechaCreacion": "2025-07-30T14:49:41.928Z"
+    },
+    {
+      "categoria": "food",
+      "album": "Viu Burger Bar",
+      "albumNormalizado": "viu-burger-bar",
+      "ruta": "/galeria/food/viu-burger-bar",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/food/Viu Burger Bar",
+      "imagenes": [
+        "3.webp",
+        "7 2.webp",
+        "viu 2.webp",
+        "viu 4.webp",
+        "viu 9.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 6,
+      "fechaCreacion": "2025-07-30T14:49:41.930Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "A FUTURO",
+      "albumNormalizado": "a-futuro",
+      "ruta": "/galeria/moda/a-futuro",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/A FUTURO",
+      "imagenes": [
+        "Tissa_Summer25-10.webp",
+        "Tissa_Summer25-15.webp",
+        "Tissa_Summer25-6.webp",
+        "Tissa_Summer25.webp"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.935Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Blond it",
+      "albumNormalizado": "blond-it",
+      "ruta": "/galeria/moda/blond-it",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Blond it",
+      "imagenes": [
+        "10.webp",
+        "11.webp",
+        "13.webp",
+        "14.webp",
+        "1czxca.webp",
+        "29.webp",
+        "3.webp",
+        "34.webp",
+        "7.webp",
+        "8.webp",
+        "ffdfd.webp",
+        "lll.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 13,
+      "fechaCreacion": "2025-07-30T14:49:41.936Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Buenaventura",
+      "albumNormalizado": "buenaventura",
+      "ruta": "/galeria/moda/buenaventura",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Buenaventura",
+      "imagenes": [
+        "DRAFTER-10.webp",
+        "DRAFTER-13.webp",
+        "DRAFTER-15.webp",
+        "DRAFTER.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 5,
+      "fechaCreacion": "2025-07-30T14:49:41.938Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Campaña Pride",
+      "albumNormalizado": "campana-pride",
+      "ruta": "/galeria/moda/campana-pride",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Campaña Pride",
+      "imagenes": [
+        "futbolista.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.939Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Daniela tolosa",
+      "albumNormalizado": "daniela-tolosa",
+      "ruta": "/galeria/moda/daniela-tolosa",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Daniela tolosa",
+      "imagenes": [
+        "DSC06062.webp",
+        "DSC06272.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 3,
+      "fechaCreacion": "2025-07-30T14:49:41.940Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Leo",
+      "albumNormalizado": "leo",
+      "ruta": "/galeria/moda/leo",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Leo",
+      "imagenes": [
+        "LeoHanna-20.webp",
+        "LeoHanna-21.webp",
+        "LeoHanna-24.webp",
+        "LeoHanna-28.webp"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.941Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Make up world",
+      "albumNormalizado": "make-up-world",
+      "ruta": "/galeria/moda/make-up-world",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Make up world",
+      "imagenes": [
+        "Alvin closed.webp",
+        "her.webp",
+        "la mas valiosa.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.942Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "MRS TISSA",
+      "albumNormalizado": "mrs-tissa",
+      "ruta": "/galeria/moda/mrs-tissa",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/MRS TISSA",
+      "imagenes": [
+        "TissaViñeta-12.jpg",
+        "TissaViñeta-9.jpg",
+        "Tissa_Detalle-5.jpg",
+        "portada.jpg"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.943Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Portrait",
+      "albumNormalizado": "portrait",
+      "ruta": "/galeria/moda/portrait",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Portrait",
+      "imagenes": [
+        "DSC03845.webp",
+        "Plano medio 3.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 3,
+      "fechaCreacion": "2025-07-30T14:49:41.944Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Robert Grey",
+      "albumNormalizado": "robert-grey",
+      "ruta": "/galeria/moda/robert-grey",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Robert Grey",
+      "imagenes": [
+        "DSC07778.webp",
+        "DSC07784.webp",
+        "DSC07790.webp",
+        "DSC07894.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 5,
+      "fechaCreacion": "2025-07-30T14:49:41.948Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Sergei",
+      "albumNormalizado": "sergei",
+      "ruta": "/galeria/moda/sergei",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Sergei",
+      "imagenes": [
+        "B&W Pina-2.webp",
+        "B&W Pina-5.webp",
+        "S&X-3.webp",
+        "S&X-4.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 5,
+      "fechaCreacion": "2025-07-30T14:49:41.949Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Sergio Odontología",
+      "albumNormalizado": "sergio-odontologia",
+      "ruta": "/galeria/moda/sergio-odontologia",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Sergio Odontología",
+      "imagenes": [
+        "sergio-25.webp",
+        "sergio-30.webp",
+        "sergio-31.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.951Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "TISSA BAGS",
+      "albumNormalizado": "tissa-bags",
+      "ruta": "/galeria/moda/tissa-bags",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/TISSA BAGS",
+      "imagenes": [
+        "Tissa_Detalle-2.webp",
+        "Tissa_Detalle.webp",
+        "Tissa_Summer-13.webp",
+        "Tissa_Summer-14.webp",
+        "Tissa_Summer-3.webp",
+        "Tissa_Summer-5.webp",
+        "Tissa_Summer.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 8,
+      "fechaCreacion": "2025-07-30T14:49:41.952Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "Victor Fisioterapia",
+      "albumNormalizado": "victor-fisioterapia",
+      "ruta": "/galeria/moda/victor-fisioterapia",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/Victor Fisioterapia",
+      "imagenes": [
+        "Fisio.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 2,
+      "fechaCreacion": "2025-07-30T14:49:41.956Z"
+    },
+    {
+      "categoria": "moda",
+      "album": "XU",
+      "albumNormalizado": "xu",
+      "ruta": "/galeria/moda/xu",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/moda/XU",
+      "imagenes": [
+        "B&W Pina-14.webp",
+        "S&X-10.webp",
+        "S&X-8.webp",
+        "portada.webp"
+      ],
+      "totalImagenes": 4,
+      "fechaCreacion": "2025-07-30T14:49:41.957Z"
+    },
+    {
+      "categoria": "social",
+      "album": "social",
+      "albumNormalizado": "social",
+      "ruta": "/galeria/social/social",
+      "rutaFisica": "/Portafolio Drafter 2025 julio/social",
+      "imagenes": [
+        "DSC04997.webp",
+        "Enbabia_abril_2025-14.webp",
+        "Enbabia_abril_2025-29.webp",
+        "Enbabia_abril_2025-33.webp",
+        "Espit042025_-16.webp",
+        "Espit042025_-34.webp",
+        "Espit0525-36.webp",
+        "Party_Tour_-15.webp",
+        "Party_Tour_-17.webp",
+        "Social.webp",
+        "Spit-26.webp",
+        "Street style.webp"
+      ],
+      "totalImagenes": 12,
+      "fechaCreacion": "2025-07-30T14:49:41.961Z"
+    }
+  ]
+}

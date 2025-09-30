@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Estáticas principales -->
+  <url><loc>https://drafter.es/</loc><lastmod>2025-09-10</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://drafter.es/moda</loc><lastmod>2025-09-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://drafter.es/espacial</loc><lastmod>2025-09-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://drafter.es/gastro</loc><lastmod>2025-09-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://drafter.es/social</loc><lastmod>2025-09-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://drafter.es/paquetes</loc><lastmod>2025-09-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://drafter.es/quienes-somos</loc><lastmod>2025-09-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://drafter.es/galeria</loc><lastmod>2025-09-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  
+  <!-- Legales -->
+  <url><loc>https://drafter.es/privacidad</loc><lastmod>2025-09-10</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://drafter.es/cookies</loc><lastmod>2025-09-10</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://drafter.es/aviso-legal</loc><lastmod>2025-09-10</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+
+  <!-- Blog -->
+  <url><loc>https://drafter.es/noticias</loc><lastmod>2025-09-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://drafter.es/noticias/madrid-nunca-duerme</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://drafter.es/noticias/preparar-sesion-fotos</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://drafter.es/noticias/importancia-luz-fotografia</loc><lastmod>2025-04-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://drafter.es/noticias/fotografia-moda-exteriores</loc><lastmod>2025-03-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://drafter.es/noticias/retratos-profesionales-historias</loc><lastmod>2025-02-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://drafter.es/noticias/arte-estilismo-fotografia-moda</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Galería dinámica: categorías/álbumes -->
+  <url><loc>https://drafter.es/galeria/arquitectura/downtown-boutique</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/arquitectura/hortaleza</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/arquitectura/madrid-suite</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/arquitectura/real-state</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/arquitectura/san-cayetano</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/arquitectura/tirso-de-molina</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/arquitectura/zafra</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+
+  <url><loc>https://drafter.es/galeria/food/1975</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/aperol-spritz</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/asados-al-carbon</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/cibo</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/commo</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/crepas-con-cosas</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/el-gran-langostino-tienda-gourmet</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/enbabia-2</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/enbabia-infused-bar</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/enbabia-library</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/entre-comillas</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/escom-1</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/espit</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/fitcharron</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/la-fabrica-gourmet</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/library</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/the-food-place</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/tijuana-taqueria</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/tiki-tako</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/tikitako-bebidas</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/various-artist</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/food/viu-burger-bar</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+
+  <url><loc>https://drafter.es/galeria/moda/a-futuro</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/blond-it</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/buenaventura</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/campana-pride</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/daniela-tolosa</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/leo</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/make-up-world</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/mrs-tissa</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/portrait</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/robert-grey</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/sergei</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/sergio-odontologia</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/tissa-bags</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/victor-fisioterapia</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://drafter.es/galeria/moda/xu</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+
+  <url><loc>https://drafter.es/galeria/social/social</loc><lastmod>2025-07-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+
+</urlset>
