@@ -8,9 +8,13 @@
     "build": "tsc && vite build",
     "build:dev": "vite build --mode development",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
+    "preview": "vite preview --port 4173 --strictPort --host",
     "generate-gallery": "node scripts/generateGalleryData.cjs",
-    "images:optimize": "node scripts/optimize-images.cjs"
+    "images:optimize": "node scripts/optimize-images.cjs",
+    "images": "node scripts/images/build-images.mjs",
+    "build:full": "npm run images && vite build",
+    "perf:audit:lighthouse": "node -e \"const d=new Date();const dir=`.perf/${d.getFullYear()}${('0'+(d.getMonth()+1)).slice(-2)}${('0'+d.getDate()).slice(-2)}-${('0'+d.getHours()).slice(-2)}${('0'+d.getMinutes()).slice(-2)}`;require('node:fs').mkdirSync(dir,{recursive:true});require('child_process').spawn('npx',['lighthouse','http://localhost:4173','--preset=perf','--form-factor=mobile','--screenEmulation.mobile=true','--throttling-method=devtools','--throttling.rttMs=150','--throttling.throughputKbps=1638','--output=json',`--output-path=${dir}/lh.json`,'--enable-error-reporting=false'],{stdio:'inherit',shell:true}).on('exit',()=>process.exit(0))\"",
+    "perf:size": "node scripts/analyze-size.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
@@ -77,16 +81,18 @@
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react-swc": "^3.5.0",
     "autoprefixer": "^10.4.20",
+    "critters": "^0.0.25",
     "eslint": "^9.9.0",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.9",
+    "fast-glob": "^3.3.3",
     "globals": "^15.9.0",
     "lovable-tagger": "^1.1.7",
     "postcss": "^8.4.47",
+    "sharp": "^0.33.4",
     "tailwindcss": "^3.4.11",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
-    "vite": "^5.4.1",
-    "sharp": "^0.33.4"
+    "vite": "^5.4.1"
   }
 }

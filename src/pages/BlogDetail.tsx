@@ -135,6 +135,21 @@ const BlogDetail = () => {
                   {paragraph}
                 </p>
               ))}
+              {blog.externalUrl && (
+                <p className="text-gray-300 leading-relaxed mt-6 text-lg">
+                  Si quieres ver cómo nuestro trabajo luce en contexto de colección, visita la tienda oficial de Tissa Fontaneda:
+                  {' '}
+                  <a
+                    href={blog.externalUrl}
+                    target="_blank"
+                    rel="noopener noreferrer external"
+                    className="text-purple-300 underline hover:text-purple-200"
+                  >
+                    {blog.externalUrlLabel || 'tissafontaneda.com'}
+                  </a>
+                  .
+                </p>
+              )}
             </div>
           </div>
 

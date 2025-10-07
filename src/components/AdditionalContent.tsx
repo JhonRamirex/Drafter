@@ -255,6 +255,15 @@ const AdditionalContent = () => {
                 Drafter Studio.es © {new Date().getFullYear()}
               </p>
             </div>
+            <div>
+            <img 
+            src="SVG/SVG/BANNER-KIT-DIGITAL.webp" 
+             
+            className="w-32 h-auto w-full"
+            
+            fetchPriority="high"
+          />
+              </div>
             
             <div className="flex flex-wrap items-center justify-center gap-4 md:gap-6">
               <Link 

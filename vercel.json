@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "trailingSlash": false,
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/assets/(.*)\\.(js|css|woff2)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/optimized/(.*)\\.(avif|webp|jpg|jpeg|png)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=604800" }
+      ]
+    },
+    {
+      "source": "/(.*)\\.(html)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
+    }
+  ],
+  "redirects": [
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/favicon.ico", "destination": "/SVG/SVG/Drafter__9.svg", "permanent": true }
+  ],
+  "rewrites": [
+    { "source": "/noticias", "destination": "/" },
+    { "source": "/noticias/(.*)", "destination": "/" },
+    { "source": "/moda", "destination": "/" },
+    { "source": "/gastro", "destination": "/" },
+    { "source": "/espacial", "destination": "/" },
+    { "source": "/social", "destination": "/" },
+    { "source": "/paquetes", "destination": "/" },
+    { "source": "/quienes-somos", "destination": "/" },
+    { "source": "/galeria", "destination": "/" },
+    { "source": "/galeria/(.*)", "destination": "/" },
+    { "source": "/cita/(.*)", "destination": "/" },
+    { "source": "/(.*)", "destination": "/" }
+  ],
+  "redirects": [
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/favicon.ico", "destination": "/SVG/SVG/Drafter__9.svg", "permanent": true },
+    { "source": "/(.*)", "has": [{ "type": "host", "value": "www.drafter.es" }], "destination": "https://drafter.es/$1", "permanent": true }
+  ]
+}
+
+
+

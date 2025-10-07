@@ -21,7 +21,7 @@ const HeroSocial = () => {
             className="w-20 h-auto sm:w-28 shadow-lg"
             loading="eager"
             decoding="async"
-            fetchPriority="high"
+            fetchpriority="high"
           />
           <span className="text-2xl sm:text-4xl font-semibold text-[#f66b30]">Drafter Social</span>
         </div>

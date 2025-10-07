@@ -14,6 +14,7 @@ const Index: React.FC = () => {
   const [isTransitioning, setIsTransitioning] = useState(false);
   const cosmicRef = useRef<HTMLDivElement>(null);
   const featuredRef = useRef<HTMLDivElement>(null);
+  const scrollRaf = useRef<number | null>(null);
   const animating = useRef(false);
 
   // Bloquea/desbloquea el scroll del body
@@ -23,99 +24,98 @@ const Index: React.FC = () => {
 
   // Detecta scroll al final/inicio de cada sección
   useEffect(() => {
-    const handleScroll = () => {
+    const processScroll = () => {
       if (animating.current) return;
       if (currentSection === 'cosmic' && cosmicRef.current && featuredRef.current) {
         const { bottom } = cosmicRef.current.getBoundingClientRect();
-        if (bottom <= window.innerHeight + 2) {
+        if (bottom <= window.innerHeight - 80) {
           // Slide a FeaturedSection
           animating.current = true;
           setIsTransitioning(true);
-          setBodyScroll(false);
           // Ambas secciones en el DOM y absolutas
           cosmicRef.current.style.position = 'absolute';
           featuredRef.current.style.position = 'absolute';
-          gsap.set(cosmicRef.current, { x: 0 });
-          gsap.set(featuredRef.current, { x: window.innerWidth });
+          gsap.set(cosmicRef.current, { x: 0, force3D: true });
+          gsap.set(featuredRef.current, { x: window.innerWidth, force3D: true });
           featuredRef.current.style.display = 'block';
           const tl = gsap.timeline({
             onComplete: () => {
               setCurrentSection('featured');
               setIsTransitioning(false);
-              setBodyScroll(true);
               // Reset styles
               if (cosmicRef.current) {
-                gsap.set(cosmicRef.current, { x: 0 });
+                gsap.set(cosmicRef.current, { x: 0, force3D: true });
                 cosmicRef.current.style.position = 'absolute';
                 cosmicRef.current.style.display = 'none';
               }
               if (featuredRef.current) {
-                gsap.set(featuredRef.current, { x: 0 });
+                gsap.set(featuredRef.current, { x: 0, force3D: true });
                 featuredRef.current.style.position = 'relative';
                 featuredRef.current.style.display = 'block';
               }
               animating.current = false;
             }
           });
-          tl.to(cosmicRef.current, { x: -window.innerWidth, duration: 1.5, ease: 'power2.inOut' }, 0)
-            .to(featuredRef.current, { x: 0, duration: 1.5, ease: 'power2.inOut' }, 0);
+          tl.to(cosmicRef.current, { x: -window.innerWidth, duration: 1.0, ease: 'power1.inOut', force3D: true }, 0)
+            .to(featuredRef.current, { x: 0, duration: 1.0, ease: 'power1.inOut', force3D: true }, 0);
         }
       } else if (currentSection === 'featured' && featuredRef.current && cosmicRef.current) {
         if (window.scrollY === 0) {
-          // Slide de vuelta a CosmicSection
+          // Cambio instantáneo (sin animación) de vuelta a CosmicSection
           animating.current = true;
           setIsTransitioning(true);
-          setBodyScroll(false);
+
+          // Posicionamiento y visibilidad inmediata
           featuredRef.current.style.position = 'absolute';
-          cosmicRef.current.style.position = 'absolute';
-          gsap.set(featuredRef.current, { x: 0 });
-          gsap.set(cosmicRef.current, { x: -window.innerWidth });
-          cosmicRef.current.style.display = 'block';
-          const tl = gsap.timeline({
-            onComplete: () => {
-              setCurrentSection('cosmic');
-              setIsTransitioning(false);
-              setBodyScroll(true);
-              // Reset styles
-              if (featuredRef.current) {
-                gsap.set(featuredRef.current, { x: 0 });
-                featuredRef.current.style.position = 'absolute';
-                featuredRef.current.style.display = 'none';
-              }
-              if (cosmicRef.current) {
-                gsap.set(cosmicRef.current, { x: 0 });
-                cosmicRef.current.style.position = 'relative';
-                cosmicRef.current.style.display = 'block';
-              }
-              animating.current = false;
-            }
-          });
-          tl.to(featuredRef.current, { x: window.innerWidth, duration: 1.5, ease: 'power2.inOut' }, 0)
-            .to(cosmicRef.current, { x: 0, duration: 1.5, ease: 'power2.inOut' }, 0);
+          cosmicRef.current.style.position = 'relative';
+          if (featuredRef.current) {
+            featuredRef.current.style.display = 'none';
+          }
+          if (cosmicRef.current) {
+            cosmicRef.current.style.display = 'block';
+          }
+
+          // Estado final sin timeline
+          setCurrentSection('cosmic');
+          setIsTransitioning(false);
+          animating.current = false;
         }
       }
     };
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+    const onScroll = () => {
+      if (scrollRaf.current != null) return;
+      scrollRaf.current = requestAnimationFrame(() => {
+        scrollRaf.current = null;
+        processScroll();
+      });
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => {
+      window.removeEventListener('scroll', onScroll);
+      if (scrollRaf.current != null) cancelAnimationFrame(scrollRaf.current);
+      scrollRaf.current = null;
+    };
   }, [currentSection]);
 
   // Inicializa el estado de visibilidad y posición
   useEffect(() => {
     if (currentSection === 'cosmic' && cosmicRef.current) {
-      gsap.set(cosmicRef.current, { x: 0 });
+      gsap.set(cosmicRef.current, { x: 0, force3D: true });
       cosmicRef.current.style.position = 'relative';
       cosmicRef.current.style.display = 'block';
+      cosmicRef.current.style.willChange = 'transform';
       if (featuredRef.current) {
-        gsap.set(featuredRef.current, { x: 0 });
+        gsap.set(featuredRef.current, { x: 0, force3D: true });
         featuredRef.current.style.position = 'absolute';
         featuredRef.current.style.display = 'none';
+        featuredRef.current.style.willChange = 'transform';
       }
     } else if (currentSection === 'featured' && featuredRef.current) {
-      gsap.set(featuredRef.current, { x: 0 });
+      gsap.set(featuredRef.current, { x: 0, force3D: true });
       featuredRef.current.style.position = 'relative';
       featuredRef.current.style.display = 'block';
       if (cosmicRef.current) {
-        gsap.set(cosmicRef.current, { x: 0 });
+        gsap.set(cosmicRef.current, { x: 0, force3D: true });
         cosmicRef.current.style.position = 'absolute';
         cosmicRef.current.style.display = 'none';
       }

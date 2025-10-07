@@ -21,7 +21,7 @@ const HeroModa = () => {
             className="w-20 h-auto sm:w-28 shadow-lg"
             loading="eager"
             decoding="async"
-            fetchPriority="high"
+            fetchpriority="high"
           />
           <span className="text-2xl sm:text-4xl font-semibold text-[#6900C7]">Drafter Moda</span>
         </div>

@@ -10,9 +10,36 @@ export interface Blog {
   category: 'fotografia' | 'moda' | 'eventos' | 'consejos';
   author: string;
   readTime: number; // en minutos
+  externalUrl?: string;
+  externalUrlLabel?: string;
 }
 
 const blogs: Blog[] = [
+  {
+    id: 7,
+    title: 'Colaboración con Tissa Fontaneda: texturas, luz y carácter',
+    summary: 'Detrás de escena de nuestra producción con Tissa Fontaneda: una narrativa visual centrada en materiales, color y actitud.',
+    content: `Trabajar de la mano de Tissa Fontaneda es entrar en un universo de diseño táctil y elegancia funcional. En esta producción pusimos el foco en tres pilares: textura, color y presencia. Cada encuadre buscó honrar la arquitectura del bolso y la interacción con la luz de verano.
+
+Abrimos la historia con una imagen principal potente y limpia, dejando que el material y los volúmenes respiren. A partir de ahí, el desarrollo visual alterna planos generales con detalles, generando ritmo y énfasis en costuras, acabados y forma. El styling, sobrio y contemporáneo, refuerza la identidad de marca sin distraer del protagonista: la pieza.
+
+La luz fue clave: suave, direccional y con matices cálidos para mantener la belleza del material. En edición cuidamos el contraste fino y la separación tonal para que cada imagen conserve textura sin perder naturalidad. El resultado: una serie coherente que comunica calidad y carácter, alineada con el lenguaje atemporal de Tissa Fontaneda.
+
+Este tipo de proyectos nos recuerda por qué amamos la fotografía de moda: cuando el objeto tiene alma, la cámara solo tiene que escuchar.`,
+    image: '/Portafolio Drafter 2025 julio/moda/TISSA BAGS/Tissa_Summer-13.webp',
+    images: [
+      '/Portafolio Drafter 2025 julio/moda/TISSA BAGS/Tissa_Summer-13.webp',
+      '/Portafolio Drafter 2025 julio/moda/TISSA BAGS/Tissa_Detalle-2.webp',
+      '/Portafolio Drafter 2025 julio/moda/TISSA BAGS/Tissa_Summer-3.webp'
+    ],
+    date: '2025-10-07',
+    slug: 'tissa-fontaneda-drafter',
+    category: 'moda',
+    author: 'Drafter Studio',
+    readTime: 4,
+    externalUrl: 'https://www.tissafontaneda.com/?utm_source=drafter.es&utm_medium=referral&utm_campaign=blog_tissa_2025',
+    externalUrlLabel: 'Visitar tienda oficial'
+  },
   {
     id: 1,
     title: '¡Madrid nunca duerme!',
@@ -56,7 +83,7 @@ El cuidado personal también juega un papel importante. Descansa bien la noche a
 Durante la sesión, confía en tu fotógrafo y mantén una mente abierta. Las mejores fotos suelen surgir cuando te relajas y te dejas llevar por el momento. En Drafter Studio, creamos un ambiente relajado y profesional donde puedes ser tú mismo.
 
 La post-producción es donde la magia realmente sucede. Nuestro equipo de edición trabaja meticulosamente para realzar la belleza natural de cada imagen, manteniendo la autenticidad mientras perfeccionamos los detalles técnicos.`,
-    image: '/Moda/DSC07894.webp',
+    image: '/Moda/PORTADA 2.webp',
     date: '2025-05-20',
     slug: 'preparar-sesion-fotos',
     category: 'consejos',
@@ -83,7 +110,7 @@ En la fotografía de moda, la luz se convierte en un elemento narrativo que comp
       '/Moda/LeoHanna-20.webp',
       '/Moda/B&W Pina-14.webp',
       '/Moda/S&X-10.webp',
-      '/Moda/Tissa_Summer-14.webp'
+      '/Moda/her.webp'
     ],
     date: '2025-04-15',
     slug: 'importancia-luz-fotografia',
@@ -106,10 +133,11 @@ La interacción entre el modelo y el entorno es fundamental. En Drafter Studio, 
 Los elementos naturales como el viento, la lluvia o las sombras se convierten en aliados creativos. Aprovechamos estos elementos para añadir dinamismo y autenticidad a las imágenes, creando momentos únicos que no se pueden recrear.
 
 La post-producción en fotografía de exteriores requiere un enfoque cuidadoso para mantener el equilibrio entre la luz natural y los elementos artificiales, asegurando que el resultado final sea coherente y visualmente atractivo.`,
-    image: '/Moda/Tissa_Summer-14.webp',
+    image: '/Moda/DSC07894.webp',
     images: [
-      '/Moda/Tissa_Summer-14.webp',
-      '/Moda/DSC07894.webp'
+      '/Moda/LeoHanna-24.webp',
+      '/Moda/LeoHanna-21.webp',
+      '/Moda/DSC07790.webp'
     ],
     date: '2025-03-10',
     slug: 'fotografia-moda-exteriores',
@@ -162,7 +190,7 @@ En Drafter Studio, el estilismo es una colaboración creativa donde cada decisi�
     image: '/Moda/S&X-10.webp',
     images: [
       '/Moda/S&X-10.webp',
-      '/Moda/Tissa_Summer-14.webp',
+      '/Moda/DSC07790.webp',
       '/Moda/B&W Pina-14.webp',
       '/Moda/LeoHanna-20.webp',
       '/Moda/DSC07894.webp'

@@ -1,0 +1,93 @@
+{
+  "totalBytes": 534091188,
+  "byType": {
+    "html": 3514,
+    "js": 1143267,
+    "css": 118726,
+    "images": 389140681,
+    "fonts": 633471,
+    "other": 143051529
+  },
+  "top": [
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\food\\Enbabia 2\\Enbabia Enero.mov",
+      "size": 102272255
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\food\\espit\\espit chupitos 1.mov",
+      "size": 40768670
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\moda\\MRS TISSA\\portada.jpg",
+      "size": 16417420
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\moda\\MRS TISSA\\TissaViñeta-9.jpg",
+      "size": 15460696
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\moda\\MRS TISSA\\TissaViñeta-12.jpg",
+      "size": 14643801
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\moda\\MRS TISSA\\Tissa_Detalle-5.jpg",
+      "size": 13674448
+    },
+    {
+      "path": "dist\\Moda\\LeoHanna-28.webp",
+      "size": 4990476
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\moda\\Leo\\LeoHanna-28.webp",
+      "size": 4990476
+    },
+    {
+      "path": "dist\\gastronomia\\PORTADA (18).webp",
+      "size": 2980840
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\food\\Escom 1\\portada.webp",
+      "size": 2980840
+    },
+    {
+      "path": "dist\\gastronomia\\5.webp",
+      "size": 2912242
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\food\\Viu Burger Bar\\7 2.webp",
+      "size": 2912242
+    },
+    {
+      "path": "dist\\SVG\\SVG\\flecha.svg",
+      "size": 2703595
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\social\\Enbabia_abril_2025-14.webp",
+      "size": 2617338
+    },
+    {
+      "path": "dist\\social\\Enbabia_abril_2025-14.webp",
+      "size": 2617338
+    },
+    {
+      "path": "dist\\Moda\\DSC06272.webp",
+      "size": 2534862
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\moda\\Daniela tolosa\\DSC06272.webp",
+      "size": 2534862
+    },
+    {
+      "path": "dist\\gastronomia\\1.webp",
+      "size": 2385986
+    },
+    {
+      "path": "dist\\Portafolio Drafter 2025 julio\\food\\Aperol Spritz\\Drafter2.0-33.webp",
+      "size": 2385986
+    },
+    {
+      "path": "dist\\gastronomia\\PORTADA (3).webp",
+      "size": 2278446
+    }
+  ]
+}

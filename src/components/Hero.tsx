@@ -29,6 +29,7 @@ const Hero = () => {
                 alt="Drafter."
                 className="h-10 w-auto object-contain"
                 style={{ borderRadius: 0, boxShadow: 'none' }}
+                fetchpriority="high"
               />
               <div>
                 <TextMorphingMobile />
@@ -76,6 +77,7 @@ const Hero = () => {
                 alt="Drafter."
                 className="h-12 w-auto object-contain sm:h-16 md:h-816lg:h-16 xl:h-16"
                 style={{ borderRadius: 0, boxShadow: 'none', marginRight: 0 }}
+                fetchpriority="high"
               />
               <div className="scale-75 sm:scale-100">
                 <TextMorphing />
