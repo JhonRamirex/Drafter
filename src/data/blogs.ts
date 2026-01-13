@@ -1,6 +1,7 @@
 export interface Blog {
   id: number;
   title: string;
+  subtitle?: string;
   summary: string;
   content: string;
   image: string;
@@ -15,6 +16,33 @@ export interface Blog {
 }
 
 const blogs: Blog[] = [
+  {
+    id: 8,
+    title: 'Drafter Studio en Forbes: Retratando a un icono de la alta artesanía española',
+    subtitle: 'Nuestra visión editorial se une al "lujo silencioso" de Tissa Fontaneda en una de las cabeceras más prestigiosas del mundo.',
+    summary: 'Nuestra producción ilustra por primera vez las páginas de Forbes, acompañando la narrativa del “lujo silencioso” de Tissa Fontaneda.',
+    content: `En la trayectoria de Drafter Studio, trabajamos cada día para que nuestras producciones visuales hablen por sí mismas, pero existen hitos que merecen ser celebrados en voz alta. Nos complace enormemente compartir con ustedes una noticia que marca un momento clave para nuestro equipo: por primera vez, una fotografía de nuestra producción ilustra las páginas de Forbes.
+
+El artículo, titulado "Tissa Fontaneda New CEO Heralds Growth In Tough Luxury Market", profundiza en la estrategia de futuro de la firma, un nombre que hemos visto consolidarse como el máximo referente del lujo silencioso y la exclusividad atemporal.
+
+Más allá de la presencia en un medio internacional de este calibre, queremos destacar la intención creativa detrás de la imagen seleccionada. Al realizar la fotografía de la diseñadora, nuestro objetivo en Drafter Studio trascendió lo puramente documental. Trabajamos buscando un retrato que hiciera verdadero honor a su trascendencia en la industria, capturando la autoridad y elegancia de quien es un auténtico icono de la alta artesanía española.
+
+Ver cómo nuestra visión editorial acompaña esta narrativa de éxito en Forbes es un orgullo para todo el equipo y reafirma nuestro compromiso con la excelencia visual en el sector del lujo.
+
+Les invitamos a leer el artículo completo y a descubrir la imagen que acompaña esta nueva etapa para la marca.`,
+    image: '/Portafolio Drafter 2025 julio/moda/MRS TISSA/tissav.webp',
+    images: [
+      '/Portafolio Drafter 2025 julio/moda/MRS TISSA/tissav.webp', 
+      '/Portafolio Drafter 2025 julio/moda/MRS TISSA/fobes.webp'],
+
+    date: '2026-01-12',
+    slug: 'drafter-studio-en-forbes-tissa-fontaneda',
+    category: 'moda',
+    author: 'Drafter Studio',
+    readTime: 3,
+    externalUrl: 'https://www.forbes.com/sites/kevinrozario/2025/12/15/tissa-fontaneda-new-ceo-heralds-growth-in-tough-luxury-market/',
+    externalUrlLabel: 'forbes.com'
+  },
   {
     id: 7,
     title: 'Colaboración con Tissa Fontaneda: texturas, luz y carácter',

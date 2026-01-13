@@ -48,7 +48,7 @@ const Noticias = () => {
               <div className="text-gray-300 text-sm">Categorías</div>
             </div>
             <div className="bg-black/20 backdrop-blur-sm border border-white/10 rounded-2xl p-6 text-center">
-              <div className="text-3xl font-bold text-orange-400 mb-2">2025</div>
+              <div className="text-3xl font-bold text-orange-400 mb-2">{new Date().getFullYear()}</div>
               <div className="text-gray-300 text-sm">Año Actual</div>
             </div>
           </div>

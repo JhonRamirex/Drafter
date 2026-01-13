@@ -22,10 +22,7 @@
       ]
     }
   ],
-  "redirects": [
-    { "source": "/index.html", "destination": "/", "permanent": true },
-    { "source": "/favicon.ico", "destination": "/SVG/SVG/Drafter__9.svg", "permanent": true }
-  ],
+  
   "rewrites": [
     { "source": "/noticias", "destination": "/" },
     { "source": "/noticias/(.*)", "destination": "/" },
@@ -43,6 +40,8 @@
   "redirects": [
     { "source": "/index.html", "destination": "/", "permanent": true },
     { "source": "/favicon.ico", "destination": "/SVG/SVG/Drafter__9.svg", "permanent": true },
+    { "source": "/sobre-nosotros-drafter", "destination": "/quienes-somos", "permanent": true },
+    { "source": "/paquetes-fotograficos", "destination": "/paquetes", "permanent": true },
     { "source": "/(.*)", "has": [{ "type": "host", "value": "www.drafter.es" }], "destination": "https://drafter.es/$1", "permanent": true }
   ]
 }

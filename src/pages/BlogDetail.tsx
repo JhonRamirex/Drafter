@@ -102,6 +102,13 @@ const BlogDetail = () => {
               {blog.title}
             </h1>
 
+            {/* Subtítulo (opcional) */}
+            {blog.subtitle && (
+              <h2 className="text-xl md:text-2xl text-white/90 font-semibold mb-4">
+                {blog.subtitle}
+              </h2>
+            )}
+
             {/* Metadatos */}
             <div className="flex flex-wrap items-center gap-6 text-sm text-gray-400 mb-6">
               <div className="flex items-center gap-2">
@@ -136,19 +143,33 @@ const BlogDetail = () => {
                 </p>
               ))}
               {blog.externalUrl && (
-                <p className="text-gray-300 leading-relaxed mt-6 text-lg">
-                  Si quieres ver cómo nuestro trabajo luce en contexto de colección, visita la tienda oficial de Tissa Fontaneda:
-                  {' '}
-                  <a
-                    href={blog.externalUrl}
-                    target="_blank"
-                    rel="noopener noreferrer external"
-                    className="text-purple-300 underline hover:text-purple-200"
-                  >
-                    {blog.externalUrlLabel || 'tissafontaneda.com'}
-                  </a>
-                  .
-                </p>
+                (() => {
+                  let domain = '';
+                  try {
+                    domain = new URL(blog.externalUrl as string).hostname.replace(/^www\./, '');
+                  } catch {
+                    domain = '';
+                  }
+                  const ctaText = domain.includes('forbes.com')
+                    ? 'Lee el artículo completo en:'
+                    : domain.includes('tissafontaneda.com')
+                      ? 'Visita la tienda oficial de Tissa Fontaneda:'
+                      : 'Lee más en:';
+                  return (
+                    <p className="text-gray-300 leading-relaxed mt-6 text-lg">
+                      {ctaText}{' '}
+                      <a
+                        href={blog.externalUrl}
+                        target="_blank"
+                        rel="noopener noreferrer external"
+                        className="text-purple-300 underline hover:text-purple-200"
+                      >
+                        {blog.externalUrlLabel || domain || 'enlace externo'}
+                      </a>
+                      .
+                    </p>
+                  );
+                })()
               )}
             </div>
           </div>
