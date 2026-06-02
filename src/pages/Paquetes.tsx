@@ -123,7 +123,8 @@ const Paquetes = () => {
 
                       <div className="text-center mb-6">
                         <h3 className="text-xl font-bold text-white mb-2">{pkg.name}</h3>
-                        <div className="text-3xl font-bold mb-4" style={{ color: mainColor }}>{pkg.price}</div>
+                        <div className="text-3xl font-bold" style={{ color: mainColor }}>{pkg.price}</div>
+                        <div className="text-xs uppercase tracking-wide text-gray-400 mt-2">IVA no incluido</div>
                       </div>
 
                       <div className="space-y-4 mb-6">
