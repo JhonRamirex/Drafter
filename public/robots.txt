@@ -13,5 +13,8 @@ Allow: /
 User-agent: *
 Allow: /
 
+# LLM-readable brand & site context (llms.txt standard)
+# https://drafter.es/llms.txt
+
 Sitemap: https://drafter.es/sitemap.xml
 Sitemap: https://www.drafter.es/sitemap.xml
