@@ -167,7 +167,7 @@ const AdditionalContent = () => {
                   </div>
 
                   <a
-                    href="@https://calendly.com/drafterstudio/retrato-15-clon-9 "
+                    href="https://calendly.com/drafterstudio/retrato-15-clon-9 "
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block w-full text-center py-3 px-6 rounded-full font-semibold transition-all duration-300 hover:scale-105 hover:shadow-lg"
@@ -197,7 +197,7 @@ const AdditionalContent = () => {
             </div>
             <div className="flex justify-center">
               <a
-                href="@https://calendly.com/drafterstudio/retrato-15-clon-9 "
+                href="https://calendly.com/drafterstudio/retrato-15-clon-9 "
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block py-3 px-8 rounded-full font-semibold transition-all duration-300 hover:scale-105 hover:shadow-lg"

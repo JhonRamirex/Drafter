@@ -231,7 +231,7 @@ const PackagesSection: React.FC<PackagesSectionProps> = ({ category, mainColor }
                 </a>
               ) : (
                 <a
-                  href="@https://calendly.com/drafterstudio/retrato-15-clon-9 "
+                  href="https://calendly.com/drafterstudio/retrato-15-clon-9 "
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full block text-center py-3 font-medium rounded-lg transition-all duration-300"
