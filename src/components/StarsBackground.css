@@ -1,8 +1,9 @@
 /* src/components/StarsBackground.css */
 
+/* min-height (no height) para no bloquear el scroll del documento en páginas largas como /galeria */
 html,
 body {
-  height: 100%;
+  min-height: 100%;
   margin: 0;
   padding: 0;
 }

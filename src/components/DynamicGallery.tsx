@@ -50,18 +50,30 @@ const DynamicGallery: React.FC = () => {
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
+        const indexes: number[] = [];
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
-            const index = parseInt(entry.target.getAttribute('data-index') || '0');
-            setLoadedImages(prev => new Set([...prev, index as number]));
+            indexes.push(parseInt(entry.target.getAttribute('data-index') || '0', 10));
           }
         });
+        if (indexes.length === 0) return;
+        setLoadedImages((prev) => {
+          const next = new Set(prev);
+          let changed = false;
+          indexes.forEach((index) => {
+            if (!next.has(index)) {
+              next.add(index);
+              changed = true;
+            }
+          });
+          return changed ? next : prev;
+        });
       },
-      { threshold: 0.1 }
+      { root: null, rootMargin: '200px 0px', threshold: 0.01 }
     );
 
     const imageElements = document.querySelectorAll('[data-index]');
-    imageElements.forEach(el => observer.observe(el));
+    imageElements.forEach((el) => observer.observe(el));
 
     return () => observer.disconnect();
   }, [currentAlbum]);
@@ -140,7 +152,7 @@ const DynamicGallery: React.FC = () => {
   }, [selectedImageIndex]);
 
   return (
-    <div className="min-h-screen bg-black relative overflow-hidden">
+    <div className="min-h-screen bg-black relative overflow-x-hidden">
       <Helmet>
         <title>{`${currentAlbum.album} | Galería ${currentAlbum.categoria} | Drafter Studio`}</title>
         <meta name="description" content={`Álbum ${currentAlbum.album} de la categoría ${currentAlbum.categoria}. Explora la galería completa.`} />

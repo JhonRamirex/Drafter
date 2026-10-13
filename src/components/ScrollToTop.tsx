@@ -5,37 +5,22 @@ const ScrollToTop = () => {
   const { pathname } = useLocation();
 
   useEffect(() => {
-    console.log('🔄 ScrollToTop: Cambio de ruta detectado:', pathname);
-    
-    // Múltiples métodos para asegurar que funcione
-    const scrollToTop = () => {
-      // Método 1: window.scrollTo
-      window.scrollTo({
-        top: 0,
-        left: 0,
-        behavior: 'smooth'
-      });
-      
-      // Método 2: document.documentElement.scrollTop
+    // Restaurar scroll del documento (evita body overflow residual de otras páginas)
+    document.body.style.overflow = '';
+    document.documentElement.style.overflow = '';
+
+    const reset = () => {
+      window.scrollTo(0, 0);
       document.documentElement.scrollTop = 0;
-      
-      // Método 3: document.body.scrollTop
       document.body.scrollTop = 0;
-      
-      // Método 4: scrollIntoView
-      document.body.scrollIntoView({ 
-        behavior: 'smooth', 
-        block: 'start' 
-      });
     };
-    
-    // Ejecutar con un pequeño delay para asegurar que el DOM esté listo
-    setTimeout(scrollToTop, 100);
-    
-    console.log('✅ ScrollToTop: Scroll ejecutado');
+
+    // Instantáneo: smooth + delays rompía el scroll en móvil con height:100% residual
+    reset();
+    requestAnimationFrame(reset);
   }, [pathname]);
 
-  return null; // Este componente no renderiza nada
+  return null;
 };
 
-export default ScrollToTop; 
+export default ScrollToTop;

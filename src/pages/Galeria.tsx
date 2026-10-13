@@ -1,75 +1,70 @@
-import React, { useState, useEffect } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import React, { useState, useEffect, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
 import Navigation from '../components/Navigation';
 import { Helmet } from 'react-helmet-async';
 import StarsBackground from '../components/StarsBackground';
-import PackagesSection from '../components/PackagesSection';
 import galleryData from '../data/galleryData.json';
 
 const Galeria: React.FC = () => {
   const [loadedAlbums, setLoadedAlbums] = useState<Set<string>>(new Set());
   const navigate = useNavigate();
-
-  const buildSrcSet = (path: string): string => {
-    const lastDot = path.lastIndexOf('.');
-    if (lastDot === -1) return '';
-    const base = path.slice(0, lastDot);
-    const ext = path.slice(lastDot);
-    return `${base}-800${ext} 800w, ${base}-1200${ext} 1200w, ${base}-1600${ext} 1600w`;
-  };
-
-  const buildFormatSrcSet = (path: string, format: 'webp' | 'avif'): string => {
-    const lastDot = path.lastIndexOf('.');
-    if (lastDot === -1) return '';
-    const base = path.slice(0, lastDot);
-    return `${base}-800.${format} 800w, ${base}-1200.${format} 1200w, ${base}-1600.${format} 1600w`;
-  };
+  const gridRef = useRef<HTMLDivElement>(null);
 
   // Cargar álbumes de forma progresiva
   useEffect(() => {
-    const loadInitialAlbums = () => {
-      const initialSet = new Set();
-      let count = 0;
-      
-      Object.entries(galleryData.categorias).forEach(([categoria, albumes]) => {
-        albumes.forEach((album, index) => {
-          if (count < 6) { // Cargar solo los primeros 6 álbumes inicialmente
-            initialSet.add(`${categoria}-${album.ruta}`);
-            count++;
-          }
-        });
-      });
-      
-      setLoadedAlbums(initialSet as Set<string>);
-    };
+    const initialSet = new Set<string>();
+    let count = 0;
 
-    loadInitialAlbums();
+    Object.entries(galleryData.categorias).forEach(([categoria, albumes]) => {
+      albumes.forEach((album) => {
+        if (count < 6) {
+          initialSet.add(`${categoria}-${album.ruta}`);
+          count++;
+        }
+      });
+    });
+
+    setLoadedAlbums(initialSet);
   }, []);
 
-  // Intersection Observer para lazy loading de álbumes
+  // Intersection Observer para lazy loading (root = viewport del documento)
   useEffect(() => {
+    const root = gridRef.current;
+    if (!root) return;
+
     const observer = new IntersectionObserver(
       (entries) => {
+        const keysToAdd: string[] = [];
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
             const albumKey = entry.target.getAttribute('data-album-key');
-            if (albumKey) {
-              setLoadedAlbums(prev => new Set([...prev, albumKey as string]));
-            }
+            if (albumKey) keysToAdd.push(albumKey);
           }
         });
+        if (keysToAdd.length === 0) return;
+        setLoadedAlbums((prev) => {
+          const next = new Set(prev);
+          let changed = false;
+          keysToAdd.forEach((key) => {
+            if (!next.has(key)) {
+              next.add(key);
+              changed = true;
+            }
+          });
+          return changed ? next : prev;
+        });
       },
-      { threshold: 0.1 }
+      { root: null, rootMargin: '200px 0px', threshold: 0.01 }
     );
 
-    const albumElements = document.querySelectorAll('[data-album-key]');
-    albumElements.forEach(el => observer.observe(el));
+    const albumElements = root.querySelectorAll('[data-album-key]');
+    albumElements.forEach((el) => observer.observe(el));
 
     return () => observer.disconnect();
   }, []);
 
   return (
-    <div className="min-h-screen bg-black relative overflow-hidden">
+    <div className="min-h-screen bg-black relative overflow-x-hidden">
       <Helmet>
         <title>Galería | Drafter Studio</title>
         <meta name="description" content="Galerías de fotografía y video de nuestro portfolio: gastro, moda, arquitectura y social." />
@@ -88,7 +83,7 @@ const Galeria: React.FC = () => {
       
 
       {/* Contenido principal */}
-      <div className="relative z-20 pt-32 pb-16 px-4">
+      <div ref={gridRef} className="relative z-20 pt-32 pb-16 px-4">
         <div className="max-w-7xl mx-auto">
           {/* Header */}
           <div className="text-center mb-12">
@@ -154,12 +149,12 @@ const Galeria: React.FC = () => {
               
                               return (
                 <div key={categoria} id={`categoria-${categoria}`} className="mb-16">
-                  <div className="bg-black/50 backdrop-blur-sm border border-white/10 rounded-3xl p-8">
+                  <div className="bg-black/50 backdrop-blur-sm border border-white/10 rounded-3xl p-4 sm:p-8">
                     <h2 className="text-3xl font-bold text-white mb-6 capitalize">
                       {categoryName} ({albumes.length} álbumes)
                     </h2>
                     
-                    <div className="w-full grid grid-cols-3 m-0 p-0 overflow-hidden gap-0">
+                    <div className="w-full grid grid-cols-2 sm:grid-cols-3 m-0 p-0 overflow-x-hidden gap-0">
                       {albumes.map((album) => {
                         const albumKey = `${categoria}-${album.ruta}`;
                         const isLoaded = loadedAlbums.has(albumKey);
@@ -168,7 +163,7 @@ const Galeria: React.FC = () => {
                           <div 
                             key={album.ruta} 
                             data-album-key={albumKey}
-                            className="relative group overflow-hidden w-full cursor-pointer hover:scale-105 transition-transform duration-300"
+                            className="relative group overflow-hidden w-full cursor-pointer md:hover:scale-105 transition-transform duration-300 will-change-auto"
                             onClick={() => navigate(album.ruta)}
                           >
                             {isLoaded ? (
